@@ -1,0 +1,24 @@
+[
+  {
+    "cumulative_limit": 60,
+    "additional_requests": 60,
+    "user_date": "2026-11-01",
+    "scope": "Initial authorized batch"
+  },
+  {
+    "cumulative_limit": 120,
+    "additional_requests": 60,
+    "user_date": "2026-11-01",
+    "scope": "Explicit follow-up authorization to continue both 100-filing and 100-product targets",
+    "recorded_utc": "2026-11-02T00:40:44+00:00"
+  },
+  {
+    "cumulative_limit": 180,
+    "additional_requests": 60,
+    "starting_attempts": 120,
+    "source_checked_rows_at_start": 73,
+    "user_date": "2026-11-01",
+    "scope": "Continue to 100 qualifying source-supported product entries; stop paid extraction when reached",
+    "recorded_utc": "2026-11-02T01:44:19+00:00"
+  }
+]

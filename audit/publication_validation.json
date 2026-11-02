@@ -1,0 +1,22 @@
+{
+  "final_rows": 100,
+  "llm_analyzed_filings": 187,
+  "api_requests": 153,
+  "new_openai_requests": 0,
+  "applicable_offline_tests_passed": 31,
+  "validation_issues": [],
+  "final_csv_sha256": "955730a7cb0d5f8ae9bebc1ec4b17981fa487899f5cdd551f4dd82769b34cb22",
+  "api_ledger_sha256": "ba879177ccfb23cce4b86156e2f72809cc6fababf19f8618c415bfcdbb423bc3",
+  "source_checked_baseline_rows_preserved": 73,
+  "scope": "Current public export; complete original audit history retained privately.",
+  "methodology_pdf_pages": 2,
+  "methodology_visual_review": "Both rendered pages reviewed; no clipping or overlap",
+  "source_packets": 115,
+  "max_description_characters": 169,
+  "security_scan": "passed",
+  "private_owner_email_found": false,
+  "credentials_found": false,
+  "local_user_paths_found": false,
+  "old_git_history_imported": false,
+  "course_materials_exported": false
+}

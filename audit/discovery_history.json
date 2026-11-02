@@ -1,0 +1,357 @@
+[
+  {
+    "query": "\"today launched\"",
+    "reported_document_hits": 3,
+    "examined_document_hits": 3,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-01T23:44:24+00:00",
+    "search_url": "https://efts.sec.gov/LATEST/search-index?q=%22today+launched%22&forms=8-K&startdt=2026-01-01&enddt=2026-10-31&from=0&size=100",
+    "reconstructed_from_retained_SEC_cache": true
+  },
+  {
+    "query": "\"introduces\" AND \"new products\"",
+    "reported_document_hits": 65,
+    "examined_document_hits": 65,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-01T23:44:25+00:00",
+    "search_url": "https://efts.sec.gov/LATEST/search-index?q=%22introduces%22+AND+%22new+products%22&forms=8-K&startdt=2026-01-01&enddt=2026-10-31&from=0&size=100",
+    "reconstructed_from_retained_SEC_cache": true
+  },
+  {
+    "query": "\"launches\" AND \"now available\"",
+    "reported_document_hits": 30,
+    "examined_document_hits": 30,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-01T23:44:26+00:00",
+    "search_url": "https://efts.sec.gov/LATEST/search-index?q=%22launches%22+AND+%22now+available%22&forms=8-K&startdt=2026-01-01&enddt=2026-10-31&from=0&size=100",
+    "reconstructed_from_retained_SEC_cache": true
+  },
+  {
+    "query": "\"today introduced\"",
+    "reported_document_hits": 6,
+    "examined_document_hits": 6,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-01T23:57:47+00:00",
+    "search_url": "https://efts.sec.gov/LATEST/search-index?q=%22today+introduced%22&forms=8-K&startdt=2026-01-01&enddt=2026-10-31&from=0&size=100",
+    "reconstructed_from_retained_SEC_cache": true
+  },
+  {
+    "query": "\"commercial launch\" NOT \"financial results\"",
+    "reported_document_hits": 359,
+    "examined_document_hits": 200,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T00:41:33+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"now available\" AND \"launches\" NOT \"financial results\"",
+    "reported_document_hits": 14,
+    "examined_document_hits": 14,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T00:41:34+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"introduces\" AND \"new products\" NOT \"financial results\"",
+    "reported_document_hits": 14,
+    "examined_document_hits": 14,
+    "start": "2026-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T00:41:35+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"launches\" AND \"now available\" NOT \"financial results\"",
+    "reported_document_hits": 20,
+    "examined_document_hits": 20,
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "retrieved_utc": "2026-11-02T00:50:48+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"introduces\" AND \"new\" NOT \"financial results\" NOT \"earnings\" NOT \"clinical\"",
+    "reported_document_hits": 104,
+    "examined_document_hits": 104,
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "retrieved_utc": "2026-11-02T00:50:50+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"launch\" AND (\"ETFs\" OR \"funds\") NOT \"financial results\" NOT \"offering\"",
+    "reported_document_hits": 0,
+    "examined_document_hits": 0,
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "retrieved_utc": "2026-11-02T00:50:51+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"today announced the launch\" NOT \"financial results\"",
+    "reported_document_hits": 49,
+    "examined_document_hits": 49,
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "retrieved_utc": "2026-11-02T00:56:41+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"today launched\" NOT \"financial results\"",
+    "reported_document_hits": 4,
+    "examined_document_hits": 4,
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "retrieved_utc": "2026-11-02T00:56:42+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"today introduced\" NOT \"financial results\"",
+    "reported_document_hits": 3,
+    "examined_document_hits": 3,
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "retrieved_utc": "2026-11-02T00:56:42+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"generally available\" AND \"today\" NOT \"financial results\" NOT \"clinical\"",
+    "reported_document_hits": 161,
+    "examined_document_hits": 100,
+    "start": "2025-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:09:24+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"available today\" NOT \"financial results\"",
+    "reported_document_hits": 70,
+    "examined_document_hits": 70,
+    "start": "2025-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:09:25+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"launches\" AND \"available immediately\" NOT \"financial results\"",
+    "reported_document_hits": 4,
+    "examined_document_hits": 4,
+    "start": "2025-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:22:44+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"introduces\" AND \"available now\" NOT \"financial results\"",
+    "reported_document_hits": 2,
+    "examined_document_hits": 2,
+    "start": "2025-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:22:45+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"general availability\" AND \"announces\" NOT \"financial results\" NOT \"earnings\"",
+    "reported_document_hits": 8,
+    "examined_document_hits": 8,
+    "start": "2025-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:22:46+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"today launched\" NOT \"financial results\"",
+    "reported_document_hits": 2,
+    "examined_document_hits": 2,
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "retrieved_utc": "2026-11-02T01:23:37+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announced the launch\" NOT \"financial results\" NOT \"earnings\"",
+    "reported_document_hits": 54,
+    "examined_document_hits": 54,
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "retrieved_utc": "2026-11-02T01:23:38+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"commercial launch\" NOT \"financial results\" NOT \"clinical\"",
+    "reported_document_hits": 82,
+    "examined_document_hits": 82,
+    "start": "2024-01-01",
+    "end": "2024-12-31",
+    "retrieved_utc": "2026-11-02T01:23:39+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"has launched\" NOT \"financial results\" NOT \"earnings\"",
+    "reported_document_hits": 305,
+    "examined_document_hits": 200,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:44:59+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"launch\" AND \"ETFs\" NOT \"financial results\"",
+    "reported_document_hits": 82,
+    "examined_document_hits": 82,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:45:00+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"general availability\" NOT \"financial results\" NOT \"earnings\"",
+    "reported_document_hits": 74,
+    "examined_document_hits": 74,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:45:01+00:00",
+    "page_cap": 2
+  },
+  {
+    "query": "\"announces\" AND \"commercial launch\"",
+    "reported_document_hits": 711,
+    "examined_document_hits": 100,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:49:14+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"launches new\" NOT \"financial results\" NOT \"earnings\"",
+    "reported_document_hits": 38,
+    "examined_document_hits": 38,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:49:15+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"today introduced\" NOT \"financial results\" NOT \"earnings\"",
+    "reported_document_hits": 6,
+    "examined_document_hits": 6,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:49:15+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces commercial launch\"",
+    "reported_document_hits": 13,
+    "examined_document_hits": 13,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:52:30+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces the commercial launch\"",
+    "reported_document_hits": 0,
+    "examined_document_hits": 0,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:52:31+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces general availability\"",
+    "reported_document_hits": 9,
+    "examined_document_hits": 9,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:52:32+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces the launch of\" NOT \"offering\" NOT \"financial results\"",
+    "reported_document_hits": 14,
+    "examined_document_hits": 14,
+    "start": "2023-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T01:52:32+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces commercial launch\"",
+    "reported_document_hits": 8,
+    "examined_document_hits": 8,
+    "start": "2020-01-01",
+    "end": "2022-12-31",
+    "retrieved_utc": "2026-11-02T01:57:58+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces general availability\"",
+    "reported_document_hits": 3,
+    "examined_document_hits": 3,
+    "start": "2020-01-01",
+    "end": "2022-12-31",
+    "retrieved_utc": "2026-11-02T01:57:58+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"today launched\" NOT \"offering\" NOT \"financial results\"",
+    "reported_document_hits": 6,
+    "examined_document_hits": 6,
+    "start": "2020-01-01",
+    "end": "2022-12-31",
+    "retrieved_utc": "2026-11-02T01:57:59+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"launches new\" NOT \"offering\" NOT \"financial results\"",
+    "reported_document_hits": 48,
+    "examined_document_hits": 48,
+    "start": "2020-01-01",
+    "end": "2022-12-31",
+    "retrieved_utc": "2026-11-02T01:58:00+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"now commercially available\" NOT \"financial results\"",
+    "reported_document_hits": 55,
+    "examined_document_hits": 55,
+    "start": "2020-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T02:04:58+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces U.S. commercial launch\"",
+    "reported_document_hits": 16,
+    "examined_document_hits": 16,
+    "start": "2020-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T02:04:59+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"today announced the commercial launch\"",
+    "reported_document_hits": 10,
+    "examined_document_hits": 10,
+    "start": "2020-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T02:05:00+00:00",
+    "page_cap": 1
+  },
+  {
+    "query": "\"announces the U.S. commercial launch\"",
+    "reported_document_hits": 0,
+    "examined_document_hits": 0,
+    "start": "2020-01-01",
+    "end": "2026-10-31",
+    "retrieved_utc": "2026-11-02T02:05:02+00:00",
+    "page_cap": 1
+  }
+]

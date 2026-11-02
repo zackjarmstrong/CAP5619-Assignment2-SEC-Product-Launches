@@ -1,0 +1,36 @@
+test_atomic_round_trip (test_pipeline.PipelineTests.test_atomic_round_trip) ... ok
+test_duplicate_detection (test_pipeline.PipelineTests.test_duplicate_detection) ... ok
+test_headline_penalty (test_pipeline.PipelineTests.test_headline_penalty) ... ok
+test_prepare_evidence_existing_products (test_pipeline.PipelineTests.test_prepare_evidence_existing_products) ... ok
+test_prioritize_uses_screen_score (test_pipeline.PipelineTests.test_prioritize_uses_screen_score) ... ok
+test_validation_overrides_model_timestamp (test_pipeline.PipelineTests.test_validation_overrides_model_timestamp) ... ok
+test_analysis_budget_reserved_before_call_and_retries_disabled (test_safeguards.Safeguards.test_analysis_budget_reserved_before_call_and_retries_disabled) ... ok
+test_audited_selection_avoids_known_nonlaunch_requests (test_safeguards.Safeguards.test_audited_selection_avoids_known_nonlaunch_requests) ... ok
+test_cached_sec_response_avoids_network_and_checks_integrity (test_safeguards.Safeguards.test_cached_sec_response_avoids_network_and_checks_integrity) ... ok
+test_concurrent_writer_cannot_enter (test_safeguards.Safeguards.test_concurrent_writer_cannot_enter) ... ok
+test_corrupt_ledger_refuses_calls (test_safeguards.Safeguards.test_corrupt_ledger_refuses_calls) ... ok
+test_cumulative_budget_counts_reservations_and_errors (test_safeguards.Safeguards.test_cumulative_budget_counts_reservations_and_errors) ... ok
+test_curated_package_cannot_reset_budget_by_losing_ledger (test_safeguards.Safeguards.test_curated_package_cannot_reset_budget_by_losing_ledger) ... ok
+test_documented_correction_salvages_response_without_weakening_grounding (test_safeguards.Safeguards.test_documented_correction_salvages_response_without_weakening_grounding) ... ok
+test_empty_queue_does_not_require_credential (test_safeguards.Safeguards.test_empty_queue_does_not_require_credential) ... ok
+test_error_stops_paid_batch_and_consumes_slot (test_safeguards.Safeguards.test_error_stops_paid_batch_and_consumes_slot) ... ok
+test_expanded_authorization_stops_at_180_without_resetting_history (test_safeguards.Safeguards.test_expanded_authorization_stops_at_180_without_resetting_history) ... ok
+test_final_export_excludes_model_confidence_alone (test_safeguards.Safeguards.test_final_export_excludes_model_confidence_alone) ... ok
+test_final_export_requires_matching_metadata_and_quote (test_safeguards.Safeguards.test_final_export_requires_matching_metadata_and_quote) ... ok
+test_journal_replay_is_idempotent_after_partial_csv_save (test_safeguards.Safeguards.test_journal_replay_is_idempotent_after_partial_csv_save) ... ok
+test_missing_ledger_with_existing_response_refuses_calls (test_safeguards.Safeguards.test_missing_ledger_with_existing_response_refuses_calls) ... ok
+test_plan_is_read_only_and_does_not_access_credentials (test_safeguards.Safeguards.test_plan_is_read_only_and_does_not_access_credentials) ... ok
+test_preserved_source_checked_baseline_cannot_be_dropped (test_safeguards.Safeguards.test_preserved_source_checked_baseline_cannot_be_dropped) ... ok
+test_press_only_screening_skips_contract_hits (test_safeguards.Safeguards.test_press_only_screening_skips_contract_hits) ... ok
+test_prioritization_rescues_current_launch_and_excludes_rebrand (test_safeguards.Safeguards.test_prioritization_rescues_current_launch_and_excludes_rebrand) ... ok
+test_recover_response_saved_before_journal_without_api (test_safeguards.Safeguards.test_recover_response_saved_before_journal_without_api) ... ok
+test_reject_overlong_description_and_invalid_timestamp (test_safeguards.Safeguards.test_reject_overlong_description_and_invalid_timestamp) ... ok
+test_reviewed_goal_stops_before_credential_or_request (test_safeguards.Safeguards.test_reviewed_goal_stops_before_credential_or_request) ... ok
+test_transient_windows_checkpoint_lock_retries_without_rewriting (test_safeguards.Safeguards.test_transient_windows_checkpoint_lock_retries_without_rewriting) ... ok
+test_truncation_tracks_omitted_documents_and_limit (test_safeguards.Safeguards.test_truncation_tracks_omitted_documents_and_limit) ... ok
+test_unverifiable_quote_cannot_pass (test_safeguards.Safeguards.test_unverifiable_quote_cannot_pass) ... ok
+
+----------------------------------------------------------------------
+Ran 31 tests in 0.579s
+
+OK

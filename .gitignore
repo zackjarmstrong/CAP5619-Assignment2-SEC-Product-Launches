@@ -1,0 +1,14 @@
+/course_references/
+/cache/
+/tmp/
+/.publication-private/
+/audit/responses/
+/audit/filings/
+/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.pipeline.lock
+*.tmp
+*.bundle

@@ -1,0 +1,198 @@
+﻿ticker,filing_url,accepted,status,new_products,duplicates,invalid_products,notes
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026003384/0001213900-26-003384-index.htm,2026-01-12 16:01:27,processed,0,0,0,
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026054462/0001213900-26-054462-index.htm,2026-05-11 16:01:38,processed,0,0,0,
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026058717/0001213900-26-058717-index.htm,2026-05-19 07:03:32,processed,1,0,0,
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026061727/0001213900-26-061727-index.htm,2026-05-28 07:02:00,processed,1,0,0,
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026069854/0001213900-26-069854-index.htm,2026-06-18 07:02:14,processed,1,0,0,
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026083099/0001213900-26-083099-index.htm,2026-07-30 09:11:27,processed,1,0,0,
+AMBO,https://www.sec.gov/Archives/edgar/data/1494558/000121390026090064/0001213900-26-090064-index.htm,2026-08-14 16:10:41,processed,0,1,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226029093/0001493152-26-029093-index.htm,2026-06-17 16:30:25,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226034404/0001493152-26-034404-index.htm,2026-07-23 16:07:34,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226037184/0001493152-26-037184-index.htm,2026-08-11 17:15:31,processed,1,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226039499/0001493152-26-039499-index.htm,2026-08-20 17:00:28,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226043920/0001493152-26-043920-index.htm,2026-09-23 16:05:20,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226044863/0001493152-26-044863-index.htm,2026-09-29 16:05:13,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226046205/0001493152-26-046205-index.htm,2026-10-07 21:56:11,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226047596/0001493152-26-047596-index.htm,2026-10-19 16:40:23,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226048572/0001493152-26-048572-index.htm,2026-10-26 17:00:42,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226049282/0001493152-26-049282-index.htm,2026-10-29 16:30:22,processed,1,0,0,
+MDXG,https://www.sec.gov/Archives/edgar/data/1376339/000137633926000003/0001376339-26-000003-index.htm,2026-01-12 08:04:52,processed,0,0,0,
+HTFL,https://www.sec.gov/Archives/edgar/data/1464521/000146452126000005/0001464521-26-000005-index.htm,2026-01-12 08:30:22,processed,0,0,0,
+AVNW,https://www.sec.gov/Archives/edgar/data/1377789/000162828026001978/0001628280-26-001978-index.htm,2026-01-13 16:44:56,processed,0,0,0,
+FSS,https://www.sec.gov/Archives/edgar/data/277509/000162828026002031/0001628280-26-002031-index.htm,2026-01-14 12:28:23,processed,0,0,0,
+PANW,https://www.sec.gov/Archives/edgar/data/1327567/000119312526029489/0001193125-26-029489-index.htm,2026-01-29 16:33:45,processed,0,0,0,
+SGN,https://www.sec.gov/Archives/edgar/data/1898474/000121390026002392/0001213900-26-002392-index.htm,2026-01-08 10:26:14,processed,0,0,0,
+SNOA,https://www.sec.gov/Archives/edgar/data/1367083/000168316826000205/0001683168-26-000205-index.htm,2026-01-12 08:30:39,processed,0,0,0,
+WOOF,https://www.sec.gov/Archives/edgar/data/1826470/000119312526009852/0001193125-26-009852-index.htm,2026-01-12 08:23:09,processed,0,0,0,
+DJT,https://www.sec.gov/Archives/edgar/data/1849635/000114036126001056/0001140361-26-001056-index.htm,2026-01-13 08:48:57,processed,4,0,0,
+PMI,https://www.sec.gov/Archives/edgar/data/2030617/000182912626000280/0001829126-26-000280-index.htm,2026-01-13 16:05:25,processed,0,0,0,
+OTH,https://www.sec.gov/Archives/edgar/data/2067767/000149315226002353/0001493152-26-002353-index.htm,2026-01-15 09:58:15,processed,0,0,0,
+LOGC,https://www.sec.gov/Archives/edgar/data/2064307/000114036126001964/0001140361-26-001964-index.htm,2026-01-22 09:28:52,processed,0,0,0,
+ZCAR,https://www.sec.gov/Archives/edgar/data/1854275/000121390026007349/0001213900-26-007349-index.htm,2026-01-23 17:30:46,processed,0,0,0,
+XRX,https://www.sec.gov/Archives/edgar/data/1770450/000177045026000003/0001770450-26-000003-index.htm,2026-01-29 06:35:35,processed,1,0,0,Text truncated; manual review required
+OESX,https://www.sec.gov/Archives/edgar/data/1409375/000119312526033633/0001193125-26-033633-index.htm,2026-02-02 16:09:26,processed,0,0,0,
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226007297/0001493152-26-007297-index.htm,2026-02-18 11:27:26,processed,1,0,0,
+BLNE,https://www.sec.gov/Archives/edgar/data/1534708/000149315226009985/0001493152-26-009985-index.htm,2026-03-13 08:30:42,processed,1,0,0,
+NOMA,https://www.sec.gov/Archives/edgar/data/1994214/000149315226007103/0001493152-26-007103-index.htm,2026-02-17 16:05:36,processed,0,0,1,; API attempt 1
+NOMA,https://www.sec.gov/Archives/edgar/data/1994214/000149315226007103/0001493152-26-007103-index.htm,2026-02-17 16:05:36,processed,1,0,0,Recovered durable API response; API attempt 1
+CADL,https://www.sec.gov/Archives/edgar/data/1841387/000119312526062490/0001193125-26-062490-index.htm,2026-02-23 08:00:28,processed,0,0,0,; API attempt 2
+SHAZ,https://www.sec.gov/Archives/edgar/data/2068385/000182912626001573/0001829126-26-001573-index.htm,2026-02-23 16:25:21,processed,1,0,0,; API attempt 3
+BATRA,https://www.sec.gov/Archives/edgar/data/1958140/000195814026000004/0001958140-26-000004-index.htm,2026-02-24 08:05:35,processed,0,0,0,; API attempt 4
+BAM,https://www.sec.gov/Archives/edgar/data/1937926/000117184326001289/0001171843-26-001289-index.htm,2026-03-03 07:00:29,processed,0,0,0,; API attempt 5
+WGRX,https://www.sec.gov/Archives/edgar/data/2030763/000149315226009384/0001493152-26-009384-index.htm,2026-03-09 17:00:23,processed,0,0,1,; API attempt 6
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000106299326001500/0001062993-26-001500-index.htm,2026-03-18 06:02:20,processed,0,0,0,; API attempt 7
+RGR,https://www.sec.gov/Archives/edgar/data/95029/000207709626000004/0002077096-26-000004-index.htm,2026-03-24 09:00:37,processed,0,0,0,; API attempt 8
+EZRA,https://www.sec.gov/Archives/edgar/data/1812727/000149315226013057/0001493152-26-013057-index.htm,2026-03-27 06:15:07,processed,1,0,0,; API attempt 9
+MYSE,https://www.sec.gov/Archives/edgar/data/1648960/000121390026040492/0001213900-26-040492-index.htm,2026-04-06 16:30:07,processed,1,0,0,; API attempt 10
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000106299326001898/0001062993-26-001898-index.htm,2026-04-09 06:01:38,processed,0,0,0,; API attempt 11
+SHFS,https://www.sec.gov/Archives/edgar/data/1854963/000149315226018208/0001493152-26-018208-index.htm,2026-04-21 08:15:44,processed,1,0,0,; API attempt 12
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226019357/0001493152-26-019357-index.htm,2026-04-28 16:30:29,processed,1,0,0,; API attempt 13
+ALK,https://www.sec.gov/Archives/edgar/data/766421/000076642126000019/0000766421-26-000019-index.htm,2026-05-06 07:52:09,processed,0,0,0,; API attempt 14
+APG,https://www.sec.gov/Archives/edgar/data/1796209/000119312526214754/0001193125-26-214754-index.htm,2026-05-08 16:30:21,processed,0,0,0,; API attempt 15
+AERG,https://www.sec.gov/Archives/edgar/data/879911/000121390026056864/0001213900-26-056864-index.htm,2026-05-14 17:28:48,processed,0,0,0,; API attempt 16
+IPW,https://www.sec.gov/Archives/edgar/data/1830072/000168316826004092/0001683168-26-004092-index.htm,2026-05-19 09:00:17,processed,0,0,0,; API attempt 17
+STEX,https://www.sec.gov/Archives/edgar/data/1530766/000149315226025606/0001493152-26-025606-index.htm,2026-05-28 16:05:31,processed,1,0,0,; API attempt 18
+VDTA,https://www.sec.gov/Archives/edgar/data/2033264/000149315226026649/0001493152-26-026649-index.htm,2026-06-01 16:47:23,processed,1,0,0,; API attempt 19
+AEVA,https://www.sec.gov/Archives/edgar/data/1789029/000119312526257768/0001193125-26-257768-index.htm,2026-06-04 17:22:38,processed,0,0,0,; API attempt 20
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000106299326003188/0001062993-26-003188-index.htm,2026-06-15 06:01:41,processed,0,0,0,; API attempt 21
+UGRO,https://www.sec.gov/Archives/edgar/data/1706524/000121390026069290/0001213900-26-069290-index.htm,2026-06-16 16:39:36,processed,0,0,0,; API attempt 22
+RTB,https://www.sec.gov/Archives/edgar/data/1419275/000118518526002595/0001185185-26-002595-index.htm,2026-06-22 06:02:07,processed,0,0,1,; API attempt 23
+CNM,https://www.sec.gov/Archives/edgar/data/1856525/000185652526000081/0001856525-26-000081-index.htm,2026-06-25 16:52:30,processed,0,0,0,; API attempt 24
+SRFM,https://www.sec.gov/Archives/edgar/data/1936224/000119312526293482/0001193125-26-293482-index.htm,2026-07-02 08:00:17,processed,0,0,0,; API attempt 25
+FCEL,https://www.sec.gov/Archives/edgar/data/886128/000110465926082100/0001104659-26-082100-index.htm,2026-07-09 08:15:34,processed,0,0,0,; API attempt 26
+FLZH,https://www.sec.gov/Archives/edgar/data/1706524/000121390026078757/0001213900-26-078757-index.htm,2026-07-16 16:55:30,processed,0,0,1,; API attempt 27
+MED,https://www.sec.gov/Archives/edgar/data/910329/000162828026048574/0001628280-26-048574-index.htm,2026-07-17 08:33:58,processed,1,0,0,; API attempt 28
+ZEOX,https://www.sec.gov/Archives/edgar/data/1557376/000182912626008299/0001829126-26-008299-index.htm,2026-08-04 07:30:23,processed,0,0,1,; API attempt 29
+AASP,https://www.sec.gov/Archives/edgar/data/930245/000149315226035935/0001493152-26-035935-index.htm,2026-08-04 08:30:16,processed,0,0,0,; API attempt 30
+WGRX,https://www.sec.gov/Archives/edgar/data/2030763/000149315226009384/0001493152-26-009384-index.htm,2026-03-09 17:00:23,processed,1,0,0,Recovered durable API response; API attempt 6
+RTB,https://www.sec.gov/Archives/edgar/data/1419275/000118518526002595/0001185185-26-002595-index.htm,2026-06-22 06:02:07,processed,1,0,0,Recovered durable API response; API attempt 23
+FLZH,https://www.sec.gov/Archives/edgar/data/1706524/000121390026078757/0001213900-26-078757-index.htm,2026-07-16 16:55:30,processed,1,0,0,Recovered durable API response; API attempt 27
+OMQS,https://www.sec.gov/Archives/edgar/data/278165/000117184326001226/0001171843-26-001226-index.htm,2026-03-02 08:45:29,processed,0,0,0,; API attempt 31
+WKSP,https://www.sec.gov/Archives/edgar/data/1096275/000149315226018013/0001493152-26-018013-index.htm,2026-04-20 08:31:24,processed,1,0,0,; API attempt 32
+GOAI,https://www.sec.gov/Archives/edgar/data/1983736/000149315226005003/0001493152-26-005003-index.htm,2026-02-04 06:20:29,processed,1,0,0,; API attempt 33
+WBTN,https://www.sec.gov/Archives/edgar/data/1997859/000199785926000087/0001997859-26-000087-index.htm,2026-08-10 16:33:54,processed,0,0,0,Input truncated; completeness requires review; API attempt 34
+PROF,https://www.sec.gov/Archives/edgar/data/1628808/000117184326005500/0001171843-26-005500-index.htm,2026-08-13 16:30:30,processed,1,0,0,; API attempt 35
+CYPH,https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm,2026-08-18 07:05:28,processed,1,0,0,; API attempt 36
+NTRP,https://www.sec.gov/Archives/edgar/data/788611/000149315226039369/0001493152-26-039369-index.htm,2026-08-20 08:01:38,processed,1,0,0,; API attempt 37
+BLNE,https://www.sec.gov/Archives/edgar/data/1534708/000149315226043657/0001493152-26-043657-index.htm,2026-09-22 09:00:41,processed,1,0,0,; API attempt 38
+NTRP,https://www.sec.gov/Archives/edgar/data/788611/000149315226044072/0001493152-26-044072-index.htm,2026-09-24 08:01:11,processed,1,0,0,; API attempt 39
+HIT,https://www.sec.gov/Archives/edgar/data/2019505/000121390026105280/0001213900-26-105280-index.htm,2026-09-30 16:35:59,processed,1,0,0,; API attempt 40
+NMAD,https://www.sec.gov/Archives/edgar/data/1335105/000149315226045896/0001493152-26-045896-index.htm,2026-10-06 12:18:12,processed,0,0,0,; API attempt 41
+PAPL,https://www.sec.gov/Archives/edgar/data/1938109/000149315226047167/0001493152-26-047167-index.htm,2026-10-15 09:26:36,processed,1,0,0,; API attempt 42
+BNC,https://www.sec.gov/Archives/edgar/data/1482541/000148254126000058/0001482541-26-000058-index.htm,2026-10-19 09:00:15,processed,0,0,0,; API attempt 43
+FRNM,https://www.sec.gov/Archives/edgar/data/2017526/000114036126040186/0001140361-26-040186-index.htm,2026-10-20 08:53:02,processed,1,0,0,; API attempt 44
+BOF,https://www.sec.gov/Archives/edgar/data/1962481/000149315226048132/0001493152-26-048132-index.htm,2026-10-22 17:23:37,processed,0,0,0,; API attempt 45
+AIXC,https://www.sec.gov/Archives/edgar/data/1460702/000149315226008328/0001493152-26-008328-index.htm,2026-02-27 16:05:53,processed,1,0,0,; API attempt 46
+INHD,https://www.sec.gov/Archives/edgar/data/1961847/000149315226015714/0001493152-26-015714-index.htm,2026-04-08 16:30:19,processed,0,0,0,; API attempt 47
+WRAP,https://www.sec.gov/Archives/edgar/data/1702924/000149315226033073/0001493152-26-033073-index.htm,2026-07-13 17:09:50,processed,1,0,0,; API attempt 48
+CENT,https://www.sec.gov/Archives/edgar/data/887733/000119312526316953/0001193125-26-316953-index.htm,2026-07-27 08:17:39,processed,0,0,0,; API attempt 49
+QBTS,https://www.sec.gov/Archives/edgar/data/1907982/000190798226000159/0001907982-26-000159-index.htm,2026-10-01 07:01:28,processed,0,0,1,; API attempt 50
+LHAI,https://www.sec.gov/Archives/edgar/data/2017758/000121390026105784/0001213900-26-105784-index.htm,2026-10-01 16:11:03,processed,1,0,0,; API attempt 51
+FFAI,https://www.sec.gov/Archives/edgar/data/1805521/000121390026101673/0001213900-26-101673-index.htm,2026-09-21 09:05:43,processed,9,0,0,; API attempt 52
+MDB,https://www.sec.gov/Archives/edgar/data/1441816/000162828026063850/0001628280-26-063850-index.htm,2026-09-29 17:15:25,processed,0,0,2,Input truncated; completeness requires review; API attempt 53
+WBD,https://www.sec.gov/Archives/edgar/data/1437107/000143710726000055/0001437107-26-000055-index.htm,2026-05-06 16:02:42,processed,0,0,0,Input truncated; completeness requires review; API attempt 54
+VIDA,https://www.sec.gov/Archives/edgar/data/1973062/000149315226045703/0001493152-26-045703-index.htm,2026-10-05 09:00:31,processed,1,0,0,; API attempt 55
+WST,https://www.sec.gov/Archives/edgar/data/105770/000010577026000005/0000105770-26-000005-index.htm,2026-02-12 07:21:40,processed,0,0,0,; API attempt 56
+GRND,https://www.sec.gov/Archives/edgar/data/1820144/000182014426000004/0001820144-26-000004-index.htm,2026-02-26 16:20:12,processed,0,0,0,; API attempt 57
+USAQ,https://www.sec.gov/Archives/edgar/data/856984/000149315226018222/0001493152-26-018222-index.htm,2026-04-21 09:15:14,processed,0,0,1,; API attempt 58
+PFE,https://www.sec.gov/Archives/edgar/data/78003/000007800326000094/0000078003-26-000094-index.htm,2026-08-04 07:02:43,processed,0,0,0,Input truncated; completeness requires review; API attempt 59
+ROLR,https://www.sec.gov/Archives/edgar/data/1947210/000175392626001993/0001753926-26-001993-index.htm,2026-10-23 16:05:33,processed,1,0,0,; API attempt 60
+USAQ,https://www.sec.gov/Archives/edgar/data/856984/000149315226018222/0001493152-26-018222-index.htm,2026-04-21 09:15:14,processed,1,0,0,Recovered durable API response; API attempt 58
+MBOT,https://www.sec.gov/Archives/edgar/data/883975/000149315226019775/0001493152-26-019775-index.htm,2026-04-30 08:30:31,processed,0,0,0,; API attempt 61
+DNLI,https://www.sec.gov/Archives/edgar/data/1714899/000171489926000004/0001714899-26-000004-index.htm,2026-01-06 08:02:38,processed,0,0,0,; API attempt 62
+ABEO,https://www.sec.gov/Archives/edgar/data/318306/000149315226009299/0001493152-26-009299-index.htm,2026-03-09 07:30:53,processed,0,0,0,; API attempt 63
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000149315226014813/0001493152-26-014813-index.htm,2026-04-02 08:05:23,processed,1,0,0,; API attempt 64
+SI,https://www.sec.gov/Archives/edgar/data/1699350/000169935026000021/0001699350-26-000021-index.htm,2026-04-27 07:05:54,processed,1,0,0,; API attempt 65
+GILD,https://www.sec.gov/Archives/edgar/data/882095/000110465926049874/0001104659-26-049874-index.htm,2026-04-28 08:56:25,processed,0,0,0,; API attempt 66
+OTLK,https://www.sec.gov/Archives/edgar/data/1649989/000110465926086685/0001104659-26-086685-index.htm,2026-07-24 17:01:05,processed,0,0,0,; API attempt 67
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000149315226035922/0001493152-26-035922-index.htm,2026-08-04 07:05:28,processed,1,0,0,; API attempt 68
+BBNX,https://www.sec.gov/Archives/edgar/data/1674632/000119312526392088/0001193125-26-392088-index.htm,2026-09-15 16:58:41,processed,0,0,0,Input truncated; completeness requires review; API attempt 69
+SI,https://www.sec.gov/Archives/edgar/data/1699350/000169935026000058/0001699350-26-000058-index.htm,2026-10-08 07:05:35,processed,1,0,0,; API attempt 70
+AYTU,https://www.sec.gov/Archives/edgar/data/1385818/000143774926001543/0001437749-26-001543-index.htm,2026-01-20 16:05:29,processed,0,0,0,; API attempt 71
+INBS,https://www.sec.gov/Archives/edgar/data/1725430/000149315226004068/0001493152-26-004068-index.htm,2026-01-28 17:15:25,processed,0,0,0,; API attempt 72
+WKSP,https://www.sec.gov/Archives/edgar/data/1096275/000149315226011531/0001493152-26-011531-index.htm,2026-03-19 08:15:24,processed,0,0,0,; API attempt 73
+ODYY,https://www.sec.gov/Archives/edgar/data/1626644/000168316826003205/0001683168-26-003205-index.htm,2026-04-24 17:10:19,processed,0,0,0,; API attempt 74
+KYTX,https://www.sec.gov/Archives/edgar/data/1994702/000119312526316916/0001193125-26-316916-index.htm,2026-07-27 08:00:16,processed,0,0,0,; API attempt 75
+ELUT,https://www.sec.gov/Archives/edgar/data/1708527/000110465926099731/0001104659-26-099731-index.htm,2026-08-21 17:00:20,processed,0,0,0,; API attempt 76
+SHOT,https://www.sec.gov/Archives/edgar/data/1760903/000149315225000167/0001493152-25-000167-index.htm,2025-01-03 08:30:29,processed,1,0,0,; API attempt 77
+BLNE,https://www.sec.gov/Archives/edgar/data/1534708/000106299325001255/0001062993-25-001255-index.htm,2025-01-30 09:00:22,processed,1,0,0,; API attempt 78
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000106299325002235/0001062993-25-002235-index.htm,2025-02-13 06:01:32,processed,1,0,0,; API attempt 79
+QBTS,https://www.sec.gov/Archives/edgar/data/1907982/000190798225000042/0001907982-25-000042-index.htm,2025-02-13 07:02:15,processed,1,0,0,; API attempt 80
+PMNT,https://www.sec.gov/Archives/edgar/data/1849221/000149315225007743/0001493152-25-007743-index.htm,2025-02-20 17:00:09,processed,2,0,0,; API attempt 81
+ASTC,https://www.sec.gov/Archives/edgar/data/1001907/000143774925006761/0001437749-25-006761-index.htm,2025-03-10 08:31:49,processed,0,0,1,; API attempt 82
+NCMI,https://www.sec.gov/Archives/edgar/data/1377630/000095017025038323/0000950170-25-038323-index.htm,2025-03-13 07:05:04,processed,1,0,0,; API attempt 83
+DERM,https://www.sec.gov/Archives/edgar/data/1867066/000110465925026878/0001104659-25-026878-index.htm,2025-03-24 08:30:23,processed,1,0,0,; API attempt 84
+DATS,https://www.sec.gov/Archives/edgar/data/1648960/000121390025026264/0001213900-25-026264-index.htm,2025-03-31 16:15:08,processed,1,0,0,; API attempt 85
+QBTS,https://www.sec.gov/Archives/edgar/data/1907982/000190798225000072/0001907982-25-000072-index.htm,2025-03-31 07:06:28,processed,1,0,0,; API attempt 86
+TNXP,https://www.sec.gov/Archives/edgar/data/1430306/000199937125003564/0001999371-25-003564-index.htm,2025-04-01 07:05:54,processed,1,0,0,; API attempt 87
+LFWD,https://www.sec.gov/Archives/edgar/data/1607962/000117891325001308/0001178913-25-001308-index.htm,2025-04-15 08:21:35,processed,1,0,0,; API attempt 88
+ALOT,https://www.sec.gov/Archives/edgar/data/8146/000119312525087324/0001193125-25-087324-index.htm,2025-04-21 17:01:02,processed,3,0,0,; API attempt 89
+KULR,https://www.sec.gov/Archives/edgar/data/1662684/000110465925043074/0001104659-25-043074-index.htm,2025-05-01 08:30:20,processed,1,0,0,; API attempt 90
+BMNR,https://www.sec.gov/Archives/edgar/data/1829311/000168316825003895/0001683168-25-003895-index.htm,2025-05-20 16:31:39,processed,1,0,0,; API attempt 91
+XHLD,https://www.sec.gov/Archives/edgar/data/2030954/000164117225013240/0001641172-25-013240-index.htm,2025-06-02 16:10:27,processed,0,0,0,; API attempt 92
+QBTS,https://www.sec.gov/Archives/edgar/data/1907982/000190798225000169/0001907982-25-000169-index.htm,2025-08-04 07:01:59,processed,1,0,0,; API attempt 93
+LASE,https://www.sec.gov/Archives/edgar/data/1807887/000164117225022933/0001641172-25-022933-index.htm,2025-08-11 11:30:29,processed,1,0,0,; API attempt 94
+KSEZ,https://www.sec.gov/Archives/edgar/data/1945619/000168316825005889/0001683168-25-005889-index.htm,2025-08-11 15:12:23,processed,0,0,1,; API attempt 95
+WGRX,https://www.sec.gov/Archives/edgar/data/2030763/000164117225024053/0001641172-25-024053-index.htm,2025-08-14 16:20:46,processed,1,0,0,; API attempt 96
+MITI,https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/0001185185-25-001092-index.htm,2025-08-28 17:27:02,processed,1,0,0,; API attempt 97
+ASNS,https://www.sec.gov/Archives/edgar/data/1141284/000121390025084298/0001213900-25-084298-index.htm,2025-09-04 09:05:27,processed,1,0,0,; API attempt 98
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000149315225013352/0001493152-25-013352-index.htm,2025-09-15 06:16:34,processed,1,0,0,; API attempt 99
+ADVB,https://www.sec.gov/Archives/edgar/data/1941029/000121390025089566/0001213900-25-089566-index.htm,2025-09-19 16:30:53,processed,1,0,0,; API attempt 100
+KULR,https://www.sec.gov/Archives/edgar/data/1662684/000110465925095884/0001104659-25-095884-index.htm,2025-10-02 08:30:35,processed,0,0,1,; API attempt 101
+AKAM,https://www.sec.gov/Archives/edgar/data/1086222/000108622225000246/0001086222-25-000246-index.htm,2025-10-28 16:07:55,processed,1,0,0,; API attempt 102
+BAM,https://www.sec.gov/Archives/edgar/data/1937926/000117184325007425/0001171843-25-007425-index.htm,2025-11-19 07:00:32,processed,2,0,0,; API attempt 103
+WKSP,https://www.sec.gov/Archives/edgar/data/1096275/000106299325017103/0001062993-25-017103-index.htm,2025-12-01 10:02:31,processed,2,0,0,; API attempt 104
+OMCL,https://www.sec.gov/Archives/edgar/data/926326/000110465925119083/0001104659-25-119083-index.htm,2025-12-08 08:18:56,processed,1,0,0,; API attempt 105
+CNTM,https://www.sec.gov/Archives/edgar/data/1895249/000110465925119865/0001104659-25-119865-index.htm,2025-12-10 09:00:36,processed,1,0,0,; API attempt 106
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000149315225028254/0001493152-25-028254-index.htm,2025-12-18 06:03:34,processed,0,0,1,; API attempt 107
+CNTM,https://www.sec.gov/Archives/edgar/data/1895249/000110465925124787/0001104659-25-124787-index.htm,2025-12-29 14:40:22,processed,1,0,0,; API attempt 108
+ASTC,https://www.sec.gov/Archives/edgar/data/1001907/000143774925006761/0001437749-25-006761-index.htm,2025-03-10 08:31:49,processed,1,0,0,Recovered durable API response; API attempt 82
+KSEZ,https://www.sec.gov/Archives/edgar/data/1945619/000168316825005889/0001683168-25-005889-index.htm,2025-08-11 15:12:23,processed,1,0,0,Recovered durable API response; API attempt 95
+KULR,https://www.sec.gov/Archives/edgar/data/1662684/000110465925095884/0001104659-25-095884-index.htm,2025-10-02 08:30:35,processed,1,0,0,Recovered durable API response; API attempt 101
+AITX,https://www.sec.gov/Archives/edgar/data/1498148/000149315225028254/0001493152-25-028254-index.htm,2025-12-18 06:03:34,processed,1,0,0,Recovered durable API response; API attempt 107
+SPEC,https://www.sec.gov/Archives/edgar/data/1844149/000121390024065402/0001213900-24-065402-index.htm,2024-08-06 09:15:08,processed,1,0,0,; API attempt 109
+GDC,https://www.sec.gov/Archives/edgar/data/1641398/000121390024072201/0001213900-24-072201-index.htm,2024-08-23 16:01:17,processed,1,0,0,; API attempt 110
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000149315224034019/0001493152-24-034019-index.htm,2024-08-27 16:30:16,processed,1,0,0,; API attempt 111
+CWD,https://www.sec.gov/Archives/edgar/data/1627282/000162728224000104/0001627282-24-000104-index.htm,2024-10-02 17:28:09,processed,1,0,0,; API attempt 112
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000149315224040288/0001493152-24-040288-index.htm,2024-10-07 16:20:25,processed,1,0,0,; API attempt 113
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000149315224048294/0001493152-24-048294-index.htm,2024-12-02 16:35:34,processed,1,0,0,; API attempt 114
+KULR,https://www.sec.gov/Archives/edgar/data/1662684/000110465924127030/0001104659-24-127030-index.htm,2024-12-10 08:45:39,processed,1,0,0,; API attempt 115
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000149315224052104/0001493152-24-052104-index.htm,2024-12-26 16:20:18,processed,1,0,0,; API attempt 116
+INV,https://www.sec.gov/Archives/edgar/data/2001557/000114036126015808/0001140361-26-015808-index.htm,2026-04-21 08:30:37,processed,2,0,0,; API attempt 117
+FFAI,https://www.sec.gov/Archives/edgar/data/1805521/000121390026069623/0001213900-26-069623-index.htm,2026-06-17 16:05:23,processed,2,1,0,; API attempt 118
+ATDS,https://www.sec.gov/Archives/edgar/data/1068689/000149315226046936/0001493152-26-046936-index.htm,2026-10-14 08:35:34,processed,1,0,0,; API attempt 119
+ATDS,https://www.sec.gov/Archives/edgar/data/1068689/000149315226048029/0001493152-26-048029-index.htm,2026-10-22 09:10:21,processed,1,0,0,; API attempt 120
+TELA,https://www.sec.gov/Archives/edgar/data/1561921/000110465923002053/0001104659-23-002053-index.htm,2023-01-09 07:15:19,processed,1,0,0,; API attempt 121
+HRTX,https://www.sec.gov/Archives/edgar/data/818033/000095017023006139/0000950170-23-006139-index.htm,2023-03-06 09:11:09,processed,1,0,0,; API attempt 122
+GDC,https://www.sec.gov/Archives/edgar/data/1641398/000121390023073903/0001213900-23-073903-index.htm,2023-09-05 16:24:51,processed,1,0,0,; API attempt 123
+UPXI,https://www.sec.gov/Archives/edgar/data/1775194/000147793223007734/0001477932-23-007734-index.htm,2023-10-18 17:00:14,processed,1,0,0,; API attempt 124
+AIRE,https://www.sec.gov/Archives/edgar/data/1859199/000121390023081931/0001213900-23-081931-index.htm,2023-11-01 07:45:14,processed,1,0,0,; API attempt 125
+SPGC,https://www.sec.gov/Archives/edgar/data/1934245/000149315223042013/0001493152-23-042013-index.htm,2023-11-20 11:39:31,processed,0,0,1,; API attempt 126
+SRDX,https://www.sec.gov/Archives/edgar/data/924717/000095017024050881/0000950170-24-050881-index.htm,2024-05-01 07:00:16,processed,2,0,0,; API attempt 127
+OPTT,https://www.sec.gov/Archives/edgar/data/1378140/000149315224024152/0001493152-24-024152-index.htm,2024-06-17 17:04:27,processed,1,0,0,; API attempt 128
+BFRI,https://www.sec.gov/Archives/edgar/data/1858685/000149315224024881/0001493152-24-024881-index.htm,2024-06-24 08:34:40,processed,1,0,0,; API attempt 129
+GMTH,https://www.sec.gov/Archives/edgar/data/2000762/000168316825000104/0001683168-25-000104-index.htm,2025-01-06 10:29:36,processed,1,0,0,; API attempt 130
+DJT,https://www.sec.gov/Archives/edgar/data/1849635/000114036125013873/0001140361-25-013873-index.htm,2025-04-15 08:18:48,processed,1,0,0,; API attempt 131
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000164117225007836/0001641172-25-007836-index.htm,2025-04-30 16:40:32,processed,1,0,0,; API attempt 132
+VRSSD,https://www.sec.gov/Archives/edgar/data/1879001/000164117225008432/0001641172-25-008432-index.htm,2025-05-02 17:25:06,processed,1,0,0,; API attempt 133
+NSPR,https://www.sec.gov/Archives/edgar/data/1433607/000164117225018302/0001641172-25-018302-index.htm,2025-07-09 07:05:32,processed,1,0,0,; API attempt 134
+RGTI,https://www.sec.gov/Archives/edgar/data/1838359/000155837025011219/0001558370-25-011219-index.htm,2025-08-12 16:05:33,processed,1,0,0,; API attempt 135
+BAM,https://www.sec.gov/Archives/edgar/data/1937926/000117184325006601/0001171843-25-006601-index.htm,2025-10-22 17:00:31,processed,1,0,0,; API attempt 136
+QXL,https://www.sec.gov/Archives/edgar/data/797542/000149315226025728/0001493152-26-025728-index.htm,2026-05-29 08:30:34,processed,1,0,0,; API attempt 137
+ROL,https://www.sec.gov/Archives/edgar/data/84839/000117120020000189/0001171200-20-000189-index.htm,2020-03-30 08:31:00,processed,1,0,0,; API attempt 138
+TGHI,https://www.sec.gov/Archives/edgar/data/225211/000121390020042428/0001213900-20-042428-index.htm,2020-12-14 09:30:53,processed,0,0,1,; API attempt 139
+UTHR,https://www.sec.gov/Archives/edgar/data/1082554/000110465921016929/0001104659-21-016929-index.htm,2021-02-10 06:01:40,processed,1,0,0,; API attempt 140
+ELTP,https://www.sec.gov/Archives/edgar/data/1053369/000121390021024634/0001213900-21-024634-index.htm,2021-05-05 09:56:30,processed,1,0,0,; API attempt 141
+SSKN,https://www.sec.gov/Archives/edgar/data/1051514/000105151422000014/0001051514-22-000014-index.htm,2022-02-09 16:10:30,processed,1,0,0,; API attempt 142
+XNDA,https://www.sec.gov/Archives/edgar/data/1624985/000168316822001341/0001683168-22-001341-index.htm,2022-02-28 18:00:08,processed,0,0,0,; API attempt 143
+TGHI,https://www.sec.gov/Archives/edgar/data/225211/000121390020042428/0001213900-20-042428-index.htm,2020-12-14 09:30:53,processed,1,0,0,Recovered durable API response; API attempt 139
+AUPH,https://www.sec.gov/Archives/edgar/data/1600620/000162828021000758/0001628280-21-000758-index.htm,2021-01-25 08:21:24,processed,2,0,0,; API attempt 144
+OMIC,https://www.sec.gov/Archives/edgar/data/1850906/000095017021005224/0000950170-21-005224-index.htm,2021-12-16 07:30:45,processed,1,0,0,; API attempt 145
+ETON,https://www.sec.gov/Archives/edgar/data/1710340/000149315221031988/0001493152-21-031988-index.htm,2021-12-20 08:30:14,processed,1,0,0,; API attempt 146
+FEMY,https://www.sec.gov/Archives/edgar/data/1339005/000114036122046508/0001140361-22-046508-index.htm,2022-12-21 16:01:36,processed,1,0,0,; API attempt 147
+AVDL,https://www.sec.gov/Archives/edgar/data/1012477/000110465923067829/0001104659-23-067829-index.htm,2023-06-05 07:05:23,processed,1,0,0,; API attempt 148
+NBIX,https://www.sec.gov/Archives/edgar/data/914475/000091447524000229/0000914475-24-000229-index.htm,2024-12-20 08:06:42,processed,1,0,0,; API attempt 149
+TNXP,https://www.sec.gov/Archives/edgar/data/1430306/000199937125017964/0001999371-25-017964-index.htm,2025-11-17 07:05:34,processed,1,0,0,; API attempt 150
+CTOR,https://www.sec.gov/Archives/edgar/data/1851484/000121390025116764/0001213900-25-116764-index.htm,2025-12-01 17:12:31,processed,1,0,0,; API attempt 151
+TELA,https://www.sec.gov/Archives/edgar/data/1561921/000110465922029676/0001104659-22-029676-index.htm,2022-03-03 07:04:58,processed,1,0,0,; API attempt 152
+TELA,https://www.sec.gov/Archives/edgar/data/1561921/000110465924046970/0001104659-24-046970-index.htm,2024-04-15 07:13:10,processed,1,0,0,; API attempt 153

@@ -1,0 +1,24 @@
+[
+  {
+    "identity": [
+      "SHOT",
+      "sure shot on-the-go powder stick packs",
+      "2025-01-03 08:30:29"
+    ],
+    "before": "Portable stick-pack format of the Sure Shot alcohol-reducing product, available immediately online.",
+    "after": "Portable powder stick packs marketed to support alcohol metabolism, available online in two flavors.",
+    "reason": "Describe issuer marketing claim without asserting independently established efficacy.",
+    "reviewed_utc": "2026-11-02T01:30:14+00:00"
+  },
+  {
+    "identity": [
+      "ATDS",
+      "vaikora",
+      "2026-10-14 08:35:34"
+    ],
+    "before": "AI runtime enforcement and control platform that applies policy to AI actions, data flows and agent-to-agent communication, allowing, blocking or constraining actions and logging",
+    "after": "AI runtime enforcement platform that allows, blocks or constrains agent actions, data flows and agent communication under enterprise policy, with decision logs.",
+    "reason": "Replace a grammatically incomplete model description with a complete source-supported sentence.",
+    "reviewed_utc": "2026-11-02T01:30:14+00:00"
+  }
+]

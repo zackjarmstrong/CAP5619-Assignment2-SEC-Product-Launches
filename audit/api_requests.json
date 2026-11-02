@@ -1,0 +1,3215 @@
+[
+  {
+    "attempt": 1,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1994214/000149315226007103/0001493152-26-007103-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:34:01+00:00",
+    "status": "completed",
+    "response_id": "resp_071ddd1cdb4771ac016ae7cc6a702c87d2ae2be18cdbc7ba97",
+    "usage": {
+      "input_tokens": 2852,
+      "input_tokens_details": {
+        "cache_write_tokens": 2849,
+        "cached_tokens": 0
+      },
+      "output_tokens": 273,
+      "output_tokens_details": {
+        "reasoning_tokens": 74
+      },
+      "total_tokens": 3125
+    },
+    "finished_utc": "2026-11-01T23:36:55+00:00"
+  },
+  {
+    "attempt": 2,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526062490/0001193125-26-062490-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:41:45+00:00",
+    "status": "completed",
+    "response_id": "resp_009ae1f6e1320f2b016ae7ce3a612887d28927474296f3ea5d",
+    "usage": {
+      "input_tokens": 5206,
+      "input_tokens_details": {
+        "cache_write_tokens": 5203,
+        "cached_tokens": 0
+      },
+      "output_tokens": 43,
+      "output_tokens_details": {
+        "reasoning_tokens": 28
+      },
+      "total_tokens": 5249
+    },
+    "finished_utc": "2026-11-01T23:41:48+00:00"
+  },
+  {
+    "attempt": 3,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2068385/000182912626001573/0001829126-26-001573-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:41:50+00:00",
+    "status": "completed",
+    "response_id": "resp_0953313a7f7f5b8f016ae7ce3e939087d284d5fdbe8970020e",
+    "usage": {
+      "input_tokens": 3222,
+      "input_tokens_details": {
+        "cache_write_tokens": 3219,
+        "cached_tokens": 0
+      },
+      "output_tokens": 292,
+      "output_tokens_details": {
+        "reasoning_tokens": 65
+      },
+      "total_tokens": 3514
+    },
+    "finished_utc": "2026-11-01T23:41:53+00:00"
+  },
+  {
+    "attempt": 4,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1958140/000195814026000004/0001958140-26-000004-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:41:55+00:00",
+    "status": "completed",
+    "response_id": "resp_09c70af2065e91a7016ae7ce434ce487d2b7455946610438c9",
+    "usage": {
+      "input_tokens": 3045,
+      "input_tokens_details": {
+        "cache_write_tokens": 3042,
+        "cached_tokens": 0
+      },
+      "output_tokens": 358,
+      "output_tokens_details": {
+        "reasoning_tokens": 343
+      },
+      "total_tokens": 3403
+    },
+    "finished_utc": "2026-11-01T23:41:59+00:00"
+  },
+  {
+    "attempt": 5,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326001289/0001171843-26-001289-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:01+00:00",
+    "status": "completed",
+    "response_id": "resp_0ffe2c37bbfb4ee3016ae7ce49551087d2b7f66ea207d5fec6",
+    "usage": {
+      "input_tokens": 3045,
+      "input_tokens_details": {
+        "cache_write_tokens": 3042,
+        "cached_tokens": 0
+      },
+      "output_tokens": 195,
+      "output_tokens_details": {
+        "reasoning_tokens": 180
+      },
+      "total_tokens": 3240
+    },
+    "finished_utc": "2026-11-01T23:42:03+00:00"
+  },
+  {
+    "attempt": 6,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226009384/0001493152-26-009384-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:05+00:00",
+    "status": "completed",
+    "response_id": "resp_012f0d551996fb36016ae7ce4e033487d282b0a7ac8275b8d3",
+    "usage": {
+      "input_tokens": 3426,
+      "input_tokens_details": {
+        "cache_write_tokens": 3423,
+        "cached_tokens": 0
+      },
+      "output_tokens": 319,
+      "output_tokens_details": {
+        "reasoning_tokens": 88
+      },
+      "total_tokens": 3745
+    },
+    "finished_utc": "2026-11-01T23:51:10+00:00"
+  },
+  {
+    "attempt": 7,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001500/0001062993-26-001500-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:11+00:00",
+    "status": "completed",
+    "response_id": "resp_0997fd9709cd502b016ae7ce53286c87d2bfda8a3181e2f9eb",
+    "usage": {
+      "input_tokens": 3130,
+      "input_tokens_details": {
+        "cache_write_tokens": 3127,
+        "cached_tokens": 0
+      },
+      "output_tokens": 31,
+      "output_tokens_details": {
+        "reasoning_tokens": 16
+      },
+      "total_tokens": 3161
+    },
+    "finished_utc": "2026-11-01T23:42:12+00:00"
+  },
+  {
+    "attempt": 8,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/95029/000207709626000004/0002077096-26-000004-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:14+00:00",
+    "status": "completed",
+    "response_id": "resp_08c51c56370c1bdb016ae7ce5700e087d2a6ccee55fc15ace5",
+    "usage": {
+      "input_tokens": 3453,
+      "input_tokens_details": {
+        "cache_write_tokens": 3450,
+        "cached_tokens": 0
+      },
+      "output_tokens": 39,
+      "output_tokens_details": {
+        "reasoning_tokens": 24
+      },
+      "total_tokens": 3492
+    },
+    "finished_utc": "2026-11-01T23:42:16+00:00"
+  },
+  {
+    "attempt": 9,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226013057/0001493152-26-013057-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:18+00:00",
+    "status": "completed",
+    "response_id": "resp_09ff87c9d9c9fc59016ae7ce5a9eb887d2b75560b3315f53cd",
+    "usage": {
+      "input_tokens": 2745,
+      "input_tokens_details": {
+        "cache_write_tokens": 2742,
+        "cached_tokens": 0
+      },
+      "output_tokens": 338,
+      "output_tokens_details": {
+        "reasoning_tokens": 85
+      },
+      "total_tokens": 3083
+    },
+    "finished_utc": "2026-11-01T23:42:21+00:00"
+  },
+  {
+    "attempt": 10,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1648960/000121390026040492/0001213900-26-040492-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:24+00:00",
+    "status": "completed",
+    "response_id": "resp_03274ba4c4593a61016ae7ce60335487d2937165346e1d8c9a",
+    "usage": {
+      "input_tokens": 4062,
+      "input_tokens_details": {
+        "cache_write_tokens": 4059,
+        "cached_tokens": 0
+      },
+      "output_tokens": 320,
+      "output_tokens_details": {
+        "reasoning_tokens": 85
+      },
+      "total_tokens": 4382
+    },
+    "finished_utc": "2026-11-01T23:42:27+00:00"
+  },
+  {
+    "attempt": 11,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326001898/0001062993-26-001898-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:29+00:00",
+    "status": "completed",
+    "response_id": "resp_08bb0e94e77f7767016ae7ce65789887d28784d245d9f2d261",
+    "usage": {
+      "input_tokens": 2957,
+      "input_tokens_details": {
+        "cache_write_tokens": 2954,
+        "cached_tokens": 0
+      },
+      "output_tokens": 49,
+      "output_tokens_details": {
+        "reasoning_tokens": 34
+      },
+      "total_tokens": 3006
+    },
+    "finished_utc": "2026-11-01T23:42:30+00:00"
+  },
+  {
+    "attempt": 12,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226018208/0001493152-26-018208-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:43+00:00",
+    "status": "completed",
+    "response_id": "resp_0682c47239a43388016ae7ce73c34887d284cc2ea3fb3a9139",
+    "usage": {
+      "input_tokens": 2751,
+      "input_tokens_details": {
+        "cache_write_tokens": 2748,
+        "cached_tokens": 0
+      },
+      "output_tokens": 334,
+      "output_tokens_details": {
+        "reasoning_tokens": 82
+      },
+      "total_tokens": 3085
+    },
+    "finished_utc": "2026-11-01T23:42:46+00:00"
+  },
+  {
+    "attempt": 13,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1983736/000149315226019357/0001493152-26-019357-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:48+00:00",
+    "status": "completed",
+    "response_id": "resp_0e3607adaa579dea016ae7ce78657c87d28445f78ca5a05ba8",
+    "usage": {
+      "input_tokens": 2445,
+      "input_tokens_details": {
+        "cache_write_tokens": 2442,
+        "cached_tokens": 0
+      },
+      "output_tokens": 309,
+      "output_tokens_details": {
+        "reasoning_tokens": 68
+      },
+      "total_tokens": 2754
+    },
+    "finished_utc": "2026-11-01T23:42:51+00:00"
+  },
+  {
+    "attempt": 14,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/766421/000076642126000019/0000766421-26-000019-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:52+00:00",
+    "status": "completed",
+    "response_id": "resp_0597d163f91beb4c016ae7ce7cefa487d288faaa7d1b4e5bd0",
+    "usage": {
+      "input_tokens": 3189,
+      "input_tokens_details": {
+        "cache_write_tokens": 3186,
+        "cached_tokens": 0
+      },
+      "output_tokens": 36,
+      "output_tokens_details": {
+        "reasoning_tokens": 21
+      },
+      "total_tokens": 3225
+    },
+    "finished_utc": "2026-11-01T23:42:53+00:00"
+  },
+  {
+    "attempt": 15,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1796209/000119312526214754/0001193125-26-214754-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:54+00:00",
+    "status": "completed",
+    "response_id": "resp_0e22e0b1047c48e0016ae7ce7e878087d28eb7852ff1f35ebb",
+    "usage": {
+      "input_tokens": 2788,
+      "input_tokens_details": {
+        "cache_write_tokens": 2785,
+        "cached_tokens": 0
+      },
+      "output_tokens": 31,
+      "output_tokens_details": {
+        "reasoning_tokens": 16
+      },
+      "total_tokens": 2819
+    },
+    "finished_utc": "2026-11-01T23:42:55+00:00"
+  },
+  {
+    "attempt": 16,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/879911/000121390026056864/0001213900-26-056864-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:56+00:00",
+    "status": "completed",
+    "response_id": "resp_02d3c9e7982a61d5016ae7ce80154087d29e7c9c76c83ab80e",
+    "usage": {
+      "input_tokens": 2425,
+      "input_tokens_details": {
+        "cache_write_tokens": 2422,
+        "cached_tokens": 0
+      },
+      "output_tokens": 35,
+      "output_tokens_details": {
+        "reasoning_tokens": 20
+      },
+      "total_tokens": 2460
+    },
+    "finished_utc": "2026-11-01T23:42:56+00:00"
+  },
+  {
+    "attempt": 17,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826004092/0001683168-26-004092-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:42:57+00:00",
+    "status": "completed",
+    "response_id": "resp_07dd4006c340e420016ae7ce81d0f887d2b0e6822392b5aacf",
+    "usage": {
+      "input_tokens": 2834,
+      "input_tokens_details": {
+        "cache_write_tokens": 2831,
+        "cached_tokens": 0
+      },
+      "output_tokens": 93,
+      "output_tokens_details": {
+        "reasoning_tokens": 78
+      },
+      "total_tokens": 2927
+    },
+    "finished_utc": "2026-11-01T23:42:59+00:00"
+  },
+  {
+    "attempt": 18,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1530766/000149315226025606/0001493152-26-025606-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:00+00:00",
+    "status": "completed",
+    "response_id": "resp_0a80feb69764611c016ae7ce84371487d28401bc9321535263",
+    "usage": {
+      "input_tokens": 3232,
+      "input_tokens_details": {
+        "cache_write_tokens": 3229,
+        "cached_tokens": 0
+      },
+      "output_tokens": 472,
+      "output_tokens_details": {
+        "reasoning_tokens": 184
+      },
+      "total_tokens": 3704
+    },
+    "finished_utc": "2026-11-01T23:43:04+00:00"
+  },
+  {
+    "attempt": 19,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2033264/000149315226026649/0001493152-26-026649-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:04+00:00",
+    "status": "completed",
+    "response_id": "resp_0711824e2f8957a6016ae7ce88e66887d29f32b43fe2b21be2",
+    "usage": {
+      "input_tokens": 2847,
+      "input_tokens_details": {
+        "cache_write_tokens": 2844,
+        "cached_tokens": 0
+      },
+      "output_tokens": 380,
+      "output_tokens_details": {
+        "reasoning_tokens": 162
+      },
+      "total_tokens": 3227
+    },
+    "finished_utc": "2026-11-01T23:43:08+00:00"
+  },
+  {
+    "attempt": 20,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1789029/000119312526257768/0001193125-26-257768-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:08+00:00",
+    "status": "completed",
+    "response_id": "resp_05c18dd3c6ec5295016ae7ce8d1c3487d2b14f5b79deea50eb",
+    "usage": {
+      "input_tokens": 4144,
+      "input_tokens_details": {
+        "cache_write_tokens": 4141,
+        "cached_tokens": 0
+      },
+      "output_tokens": 34,
+      "output_tokens_details": {
+        "reasoning_tokens": 19
+      },
+      "total_tokens": 4178
+    },
+    "finished_utc": "2026-11-01T23:43:09+00:00"
+  },
+  {
+    "attempt": 21,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299326003188/0001062993-26-003188-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:10+00:00",
+    "status": "completed",
+    "response_id": "resp_090f95947d7fabc9016ae7ce8ead1487d28d6b883798ac9b02",
+    "usage": {
+      "input_tokens": 3476,
+      "input_tokens_details": {
+        "cache_write_tokens": 3473,
+        "cached_tokens": 0
+      },
+      "output_tokens": 45,
+      "output_tokens_details": {
+        "reasoning_tokens": 30
+      },
+      "total_tokens": 3521
+    },
+    "finished_utc": "2026-11-01T23:43:11+00:00"
+  },
+  {
+    "attempt": 22,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026069290/0001213900-26-069290-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:12+00:00",
+    "status": "completed",
+    "response_id": "resp_0b85236ac9481ee7016ae7ce904f7487d28e09676013c464b8",
+    "usage": {
+      "input_tokens": 4297,
+      "input_tokens_details": {
+        "cache_write_tokens": 4294,
+        "cached_tokens": 0
+      },
+      "output_tokens": 178,
+      "output_tokens_details": {
+        "reasoning_tokens": 163
+      },
+      "total_tokens": 4475
+    },
+    "finished_utc": "2026-11-01T23:43:14+00:00"
+  },
+  {
+    "attempt": 23,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1419275/000118518526002595/0001185185-26-002595-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:14+00:00",
+    "status": "completed",
+    "response_id": "resp_01e9d63f87ec8750016ae7ce93113487d28d126c40d8e5c853",
+    "usage": {
+      "input_tokens": 3586,
+      "input_tokens_details": {
+        "cache_write_tokens": 3583,
+        "cached_tokens": 0
+      },
+      "output_tokens": 408,
+      "output_tokens_details": {
+        "reasoning_tokens": 136
+      },
+      "total_tokens": 3994
+    },
+    "finished_utc": "2026-11-01T23:51:10+00:00"
+  },
+  {
+    "attempt": 24,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1856525/000185652526000081/0001856525-26-000081-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:19+00:00",
+    "status": "completed",
+    "response_id": "resp_00a122b3bc9ca246016ae7ce97849887d2bb2f41be528fcfe1",
+    "usage": {
+      "input_tokens": 3524,
+      "input_tokens_details": {
+        "cache_write_tokens": 3521,
+        "cached_tokens": 0
+      },
+      "output_tokens": 33,
+      "output_tokens_details": {
+        "reasoning_tokens": 18
+      },
+      "total_tokens": 3557
+    },
+    "finished_utc": "2026-11-01T23:43:20+00:00"
+  },
+  {
+    "attempt": 25,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1936224/000119312526293482/0001193125-26-293482-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:21+00:00",
+    "status": "completed",
+    "response_id": "resp_0a8e159795fff9f5016ae7ce99233087d2b1db27e559cb63a4",
+    "usage": {
+      "input_tokens": 3709,
+      "input_tokens_details": {
+        "cache_write_tokens": 3706,
+        "cached_tokens": 0
+      },
+      "output_tokens": 108,
+      "output_tokens_details": {
+        "reasoning_tokens": 93
+      },
+      "total_tokens": 3817
+    },
+    "finished_utc": "2026-11-01T23:43:22+00:00"
+  },
+  {
+    "attempt": 26,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/886128/000110465926082100/0001104659-26-082100-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:23+00:00",
+    "status": "completed",
+    "response_id": "resp_0135aad9d0791219016ae7ce9b840087d2a75a8799e70d7905",
+    "usage": {
+      "input_tokens": 4433,
+      "input_tokens_details": {
+        "cache_write_tokens": 4430,
+        "cached_tokens": 0
+      },
+      "output_tokens": 36,
+      "output_tokens_details": {
+        "reasoning_tokens": 21
+      },
+      "total_tokens": 4469
+    },
+    "finished_utc": "2026-11-01T23:43:24+00:00"
+  },
+  {
+    "attempt": 27,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026078757/0001213900-26-078757-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:24+00:00",
+    "status": "completed",
+    "response_id": "resp_035187ce2ec85745016ae7ce9d10e487d2854c962a2c5b97b3",
+    "usage": {
+      "input_tokens": 5523,
+      "input_tokens_details": {
+        "cache_write_tokens": 5520,
+        "cached_tokens": 0
+      },
+      "output_tokens": 282,
+      "output_tokens_details": {
+        "reasoning_tokens": 82
+      },
+      "total_tokens": 5805
+    },
+    "finished_utc": "2026-11-01T23:51:10+00:00"
+  },
+  {
+    "attempt": 28,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/910329/000162828026048574/0001628280-26-048574-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:29+00:00",
+    "status": "completed",
+    "response_id": "resp_0532e46777c29f9f016ae7cea16fa487d284265ac611f2034f",
+    "usage": {
+      "input_tokens": 3053,
+      "input_tokens_details": {
+        "cache_write_tokens": 3050,
+        "cached_tokens": 0
+      },
+      "output_tokens": 588,
+      "output_tokens_details": {
+        "reasoning_tokens": 391
+      },
+      "total_tokens": 3641
+    },
+    "finished_utc": "2026-11-01T23:43:34+00:00"
+  },
+  {
+    "attempt": 29,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1557376/000182912626008299/0001829126-26-008299-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:35+00:00",
+    "status": "completed",
+    "response_id": "resp_0c18260b6213b912016ae7cea75a9887d28940580d31b21a9e",
+    "usage": {
+      "input_tokens": 2493,
+      "input_tokens_details": {
+        "cache_write_tokens": 2490,
+        "cached_tokens": 0
+      },
+      "output_tokens": 476,
+      "output_tokens_details": {
+        "reasoning_tokens": 146
+      },
+      "total_tokens": 2969
+    },
+    "finished_utc": "2026-11-01T23:43:39+00:00"
+  },
+  {
+    "attempt": 30,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/930245/000149315226035935/0001493152-26-035935-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:43:39+00:00",
+    "status": "completed",
+    "response_id": "resp_04a5f76347a7c808016ae7ceac141087d295f51953027b664d",
+    "usage": {
+      "input_tokens": 3746,
+      "input_tokens_details": {
+        "cache_write_tokens": 3743,
+        "cached_tokens": 0
+      },
+      "output_tokens": 147,
+      "output_tokens_details": {
+        "reasoning_tokens": 132
+      },
+      "total_tokens": 3893
+    },
+    "finished_utc": "2026-11-01T23:43:41+00:00"
+  },
+  {
+    "attempt": 31,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/278165/000117184326001226/0001171843-26-001226-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:16+00:00",
+    "status": "completed",
+    "response_id": "resp_0ac53c510286e19b016ae7d164bb2c87d2a4f5af79237c3f0b",
+    "usage": {
+      "input_tokens": 2768,
+      "input_tokens_details": {
+        "cache_write_tokens": 2765,
+        "cached_tokens": 0
+      },
+      "output_tokens": 100,
+      "output_tokens_details": {
+        "reasoning_tokens": 85
+      },
+      "total_tokens": 2868
+    },
+    "finished_utc": "2026-11-01T23:55:19+00:00"
+  },
+  {
+    "attempt": 32,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226018013/0001493152-26-018013-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:20+00:00",
+    "status": "completed",
+    "response_id": "resp_0c61ed81267aeeb2016ae7d168a16c87d2a2e07c495427651d",
+    "usage": {
+      "input_tokens": 3326,
+      "input_tokens_details": {
+        "cache_write_tokens": 3323,
+        "cached_tokens": 0
+      },
+      "output_tokens": 324,
+      "output_tokens_details": {
+        "reasoning_tokens": 63
+      },
+      "total_tokens": 3650
+    },
+    "finished_utc": "2026-11-01T23:55:23+00:00"
+  },
+  {
+    "attempt": 33,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1983736/000149315226005003/0001493152-26-005003-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:23+00:00",
+    "status": "completed",
+    "response_id": "resp_0abb95576a02c31f016ae7d16c02cc87d288dab081788e861d",
+    "usage": {
+      "input_tokens": 2194,
+      "input_tokens_details": {
+        "cache_write_tokens": 2191,
+        "cached_tokens": 0
+      },
+      "output_tokens": 393,
+      "output_tokens_details": {
+        "reasoning_tokens": 184
+      },
+      "total_tokens": 2587
+    },
+    "finished_utc": "2026-11-01T23:55:27+00:00"
+  },
+  {
+    "attempt": 34,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1997859/000199785926000087/0001997859-26-000087-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:29+00:00",
+    "status": "completed",
+    "response_id": "resp_03d04b94126c6142016ae7d171858087d2b897e727f5a85824",
+    "usage": {
+      "input_tokens": 14872,
+      "input_tokens_details": {
+        "cache_write_tokens": 14869,
+        "cached_tokens": 0
+      },
+      "output_tokens": 761,
+      "output_tokens_details": {
+        "reasoning_tokens": 746
+      },
+      "total_tokens": 15633
+    },
+    "finished_utc": "2026-11-01T23:55:36+00:00"
+  },
+  {
+    "attempt": 35,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326005500/0001171843-26-005500-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:36+00:00",
+    "status": "completed",
+    "response_id": "resp_0ef1b852c84f0716016ae7d179105087d28297fb984c0e9794",
+    "usage": {
+      "input_tokens": 3455,
+      "input_tokens_details": {
+        "cache_write_tokens": 3452,
+        "cached_tokens": 0
+      },
+      "output_tokens": 339,
+      "output_tokens_details": {
+        "reasoning_tokens": 117
+      },
+      "total_tokens": 3794
+    },
+    "finished_utc": "2026-11-01T23:55:40+00:00"
+  },
+  {
+    "attempt": 36,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:40+00:00",
+    "status": "completed",
+    "response_id": "resp_0d422c679d92e013016ae7d17cd54c87d2951f525f6958e362",
+    "usage": {
+      "input_tokens": 5308,
+      "input_tokens_details": {
+        "cache_write_tokens": 5305,
+        "cached_tokens": 0
+      },
+      "output_tokens": 367,
+      "output_tokens_details": {
+        "reasoning_tokens": 162
+      },
+      "total_tokens": 5675
+    },
+    "finished_utc": "2026-11-01T23:55:43+00:00"
+  },
+  {
+    "attempt": 37,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226039369/0001493152-26-039369-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:44+00:00",
+    "status": "completed",
+    "response_id": "resp_0b67d020cce54d97016ae7d1807c1c87d2b7724ae30289cabe",
+    "usage": {
+      "input_tokens": 5116,
+      "input_tokens_details": {
+        "cache_write_tokens": 5113,
+        "cached_tokens": 0
+      },
+      "output_tokens": 660,
+      "output_tokens_details": {
+        "reasoning_tokens": 391
+      },
+      "total_tokens": 5776
+    },
+    "finished_utc": "2026-11-01T23:55:49+00:00"
+  },
+  {
+    "attempt": 38,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1534708/000149315226043657/0001493152-26-043657-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:49+00:00",
+    "status": "completed",
+    "response_id": "resp_09eff48d855690ac016ae7d186002c87d29ee24454aee8bda5",
+    "usage": {
+      "input_tokens": 2895,
+      "input_tokens_details": {
+        "cache_write_tokens": 2892,
+        "cached_tokens": 0
+      },
+      "output_tokens": 414,
+      "output_tokens_details": {
+        "reasoning_tokens": 174
+      },
+      "total_tokens": 3309
+    },
+    "finished_utc": "2026-11-01T23:55:53+00:00"
+  },
+  {
+    "attempt": 39,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/788611/000149315226044072/0001493152-26-044072-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:54+00:00",
+    "status": "completed",
+    "response_id": "resp_0b4c531550957e85016ae7d18afddc87d2956ce69ba2f382bb",
+    "usage": {
+      "input_tokens": 4412,
+      "input_tokens_details": {
+        "cache_write_tokens": 4409,
+        "cached_tokens": 0
+      },
+      "output_tokens": 468,
+      "output_tokens_details": {
+        "reasoning_tokens": 189
+      },
+      "total_tokens": 4880
+    },
+    "finished_utc": "2026-11-01T23:55:58+00:00"
+  },
+  {
+    "attempt": 40,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026105280/0001213900-26-105280-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:55:59+00:00",
+    "status": "completed",
+    "response_id": "resp_047fb1f644a798fb016ae7d190196487d287858c9c36eb1d48",
+    "usage": {
+      "input_tokens": 3686,
+      "input_tokens_details": {
+        "cache_write_tokens": 3683,
+        "cached_tokens": 0
+      },
+      "output_tokens": 430,
+      "output_tokens_details": {
+        "reasoning_tokens": 191
+      },
+      "total_tokens": 4116
+    },
+    "finished_utc": "2026-11-01T23:56:03+00:00"
+  },
+  {
+    "attempt": 41,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1335105/000149315226045896/0001493152-26-045896-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:04+00:00",
+    "status": "completed",
+    "response_id": "resp_0fc71e3c041358ac016ae7d1946d4087d2908322776f9c553d",
+    "usage": {
+      "input_tokens": 2335,
+      "input_tokens_details": {
+        "cache_write_tokens": 2332,
+        "cached_tokens": 0
+      },
+      "output_tokens": 65,
+      "output_tokens_details": {
+        "reasoning_tokens": 49
+      },
+      "total_tokens": 2400
+    },
+    "finished_utc": "2026-11-01T23:56:05+00:00"
+  },
+  {
+    "attempt": 42,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1938109/000149315226047167/0001493152-26-047167-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:06+00:00",
+    "status": "completed",
+    "response_id": "resp_068f19270e878ba2016ae7d196968887d2830126b0011a18b5",
+    "usage": {
+      "input_tokens": 4721,
+      "input_tokens_details": {
+        "cache_write_tokens": 4718,
+        "cached_tokens": 0
+      },
+      "output_tokens": 410,
+      "output_tokens_details": {
+        "reasoning_tokens": 203
+      },
+      "total_tokens": 5131
+    },
+    "finished_utc": "2026-11-01T23:56:09+00:00"
+  },
+  {
+    "attempt": 43,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1482541/000148254126000058/0001482541-26-000058-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:10+00:00",
+    "status": "completed",
+    "response_id": "resp_083c20edc3a66cb6016ae7d19ad35c87d2b4a9b65d99794e01",
+    "usage": {
+      "input_tokens": 7799,
+      "input_tokens_details": {
+        "cache_write_tokens": 7796,
+        "cached_tokens": 0
+      },
+      "output_tokens": 54,
+      "output_tokens_details": {
+        "reasoning_tokens": 39
+      },
+      "total_tokens": 7853
+    },
+    "finished_utc": "2026-11-01T23:56:11+00:00"
+  },
+  {
+    "attempt": 44,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126040186/0001140361-26-040186-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:12+00:00",
+    "status": "completed",
+    "response_id": "resp_0f50ffda1b9527f5016ae7d19cf02887d2bd7d19b233d84ae3",
+    "usage": {
+      "input_tokens": 4417,
+      "input_tokens_details": {
+        "cache_write_tokens": 4414,
+        "cached_tokens": 0
+      },
+      "output_tokens": 462,
+      "output_tokens_details": {
+        "reasoning_tokens": 223
+      },
+      "total_tokens": 4879
+    },
+    "finished_utc": "2026-11-01T23:56:16+00:00"
+  },
+  {
+    "attempt": 45,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1962481/000149315226048132/0001493152-26-048132-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:17+00:00",
+    "status": "completed",
+    "response_id": "resp_0b2a9bdbe9885f0c016ae7d1a16cc087d2aba6baca0dc286e1",
+    "usage": {
+      "input_tokens": 6264,
+      "input_tokens_details": {
+        "cache_write_tokens": 6261,
+        "cached_tokens": 0
+      },
+      "output_tokens": 199,
+      "output_tokens_details": {
+        "reasoning_tokens": 184
+      },
+      "total_tokens": 6463
+    },
+    "finished_utc": "2026-11-01T23:56:19+00:00"
+  },
+  {
+    "attempt": 46,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226008328/0001493152-26-008328-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:20+00:00",
+    "status": "completed",
+    "response_id": "resp_0535226d60590e98016ae7d1a4bf2c87d2a1baedfb18e56f9c",
+    "usage": {
+      "input_tokens": 2972,
+      "input_tokens_details": {
+        "cache_write_tokens": 2969,
+        "cached_tokens": 0
+      },
+      "output_tokens": 583,
+      "output_tokens_details": {
+        "reasoning_tokens": 388
+      },
+      "total_tokens": 3555
+    },
+    "finished_utc": "2026-11-01T23:56:25+00:00"
+  },
+  {
+    "attempt": 47,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1961847/000149315226015714/0001493152-26-015714-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:26+00:00",
+    "status": "completed",
+    "response_id": "resp_056d6722b15370ce016ae7d1aa9e0087d2a2c5bf8755f83f63",
+    "usage": {
+      "input_tokens": 2381,
+      "input_tokens_details": {
+        "cache_write_tokens": 2378,
+        "cached_tokens": 0
+      },
+      "output_tokens": 50,
+      "output_tokens_details": {
+        "reasoning_tokens": 35
+      },
+      "total_tokens": 2431
+    },
+    "finished_utc": "2026-11-01T23:56:27+00:00"
+  },
+  {
+    "attempt": 48,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226033073/0001493152-26-033073-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:28+00:00",
+    "status": "completed",
+    "response_id": "resp_02a7f6dfa6068ae1016ae7d1acfabc87d28ae852234da20750",
+    "usage": {
+      "input_tokens": 6455,
+      "input_tokens_details": {
+        "cache_write_tokens": 6452,
+        "cached_tokens": 0
+      },
+      "output_tokens": 343,
+      "output_tokens_details": {
+        "reasoning_tokens": 90
+      },
+      "total_tokens": 6798
+    },
+    "finished_utc": "2026-11-01T23:56:32+00:00"
+  },
+  {
+    "attempt": 49,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/887733/000119312526316953/0001193125-26-316953-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:32+00:00",
+    "status": "completed",
+    "response_id": "resp_0a1f6501e0cfbd3d016ae7d1b0d68c87d2a7cd01e4522356a8",
+    "usage": {
+      "input_tokens": 3347,
+      "input_tokens_details": {
+        "cache_write_tokens": 3344,
+        "cached_tokens": 0
+      },
+      "output_tokens": 32,
+      "output_tokens_details": {
+        "reasoning_tokens": 17
+      },
+      "total_tokens": 3379
+    },
+    "finished_utc": "2026-11-01T23:56:33+00:00"
+  },
+  {
+    "attempt": 50,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000159/0001907982-26-000159-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:34+00:00",
+    "status": "completed",
+    "response_id": "resp_0c4ca2b711a1df42016ae7d1b2a1f087d2b986f60f8ba71b3b",
+    "usage": {
+      "input_tokens": 3066,
+      "input_tokens_details": {
+        "cache_write_tokens": 3063,
+        "cached_tokens": 0
+      },
+      "output_tokens": 474,
+      "output_tokens_details": {
+        "reasoning_tokens": 234
+      },
+      "total_tokens": 3540
+    },
+    "finished_utc": "2026-11-01T23:56:38+00:00"
+  },
+  {
+    "attempt": 51,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026105784/0001213900-26-105784-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:39+00:00",
+    "status": "completed",
+    "response_id": "resp_011538399b067974016ae7d1b7cfc887d2a7110f5a649ae21f",
+    "usage": {
+      "input_tokens": 3239,
+      "input_tokens_details": {
+        "cache_write_tokens": 3236,
+        "cached_tokens": 0
+      },
+      "output_tokens": 329,
+      "output_tokens_details": {
+        "reasoning_tokens": 107
+      },
+      "total_tokens": 3568
+    },
+    "finished_utc": "2026-11-01T23:56:42+00:00"
+  },
+  {
+    "attempt": 52,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026101673/0001213900-26-101673-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:56:43+00:00",
+    "status": "completed",
+    "response_id": "resp_05ea128b2233a6be016ae7d1bb9f2c87d29e67e1a8a60dda30",
+    "usage": {
+      "input_tokens": 5595,
+      "input_tokens_details": {
+        "cache_write_tokens": 5592,
+        "cached_tokens": 0
+      },
+      "output_tokens": 2958,
+      "output_tokens_details": {
+        "reasoning_tokens": 1367
+      },
+      "total_tokens": 8553
+    },
+    "finished_utc": "2026-11-01T23:57:01+00:00"
+  },
+  {
+    "attempt": 53,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1441816/000162828026063850/0001628280-26-063850-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:57:02+00:00",
+    "status": "completed",
+    "response_id": "resp_0e993babf37105ff016ae7d1cf0f1c87d2a3ffc15ca3417f31",
+    "usage": {
+      "input_tokens": 13979,
+      "input_tokens_details": {
+        "cache_write_tokens": 13976,
+        "cached_tokens": 0
+      },
+      "output_tokens": 1816,
+      "output_tokens_details": {
+        "reasoning_tokens": 1532
+      },
+      "total_tokens": 15795
+    },
+    "finished_utc": "2026-11-01T23:57:15+00:00"
+  },
+  {
+    "attempt": 54,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1437107/000143710726000055/0001437107-26-000055-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-01T23:57:16+00:00",
+    "status": "completed",
+    "response_id": "resp_0ff1b96cb58f0719016ae7d1dd186087d2809459f0bc0d178b",
+    "usage": {
+      "input_tokens": 14012,
+      "input_tokens_details": {
+        "cache_write_tokens": 14009,
+        "cached_tokens": 0
+      },
+      "output_tokens": 236,
+      "output_tokens_details": {
+        "reasoning_tokens": 221
+      },
+      "total_tokens": 14248
+    },
+    "finished_utc": "2026-11-01T23:57:19+00:00"
+  },
+  {
+    "attempt": 55,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1973062/000149315226045703/0001493152-26-045703-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:00:41+00:00",
+    "status": "completed",
+    "response_id": "resp_01897761d7e42b20016ae7d2aa4b8c87d2b997b9eb694c8b9d",
+    "usage": {
+      "input_tokens": 2131,
+      "input_tokens_details": {
+        "cache_write_tokens": 2128,
+        "cached_tokens": 0
+      },
+      "output_tokens": 276,
+      "output_tokens_details": {
+        "reasoning_tokens": 91
+      },
+      "total_tokens": 2407
+    },
+    "finished_utc": "2026-11-02T00:00:45+00:00"
+  },
+  {
+    "attempt": 56,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/105770/000010577026000005/0000105770-26-000005-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:00:46+00:00",
+    "status": "completed",
+    "response_id": "resp_09abff9891f51450016ae7d2aeb63487d2bfb41e7efa6c864d",
+    "usage": {
+      "input_tokens": 15569,
+      "input_tokens_details": {
+        "cache_write_tokens": 15566,
+        "cached_tokens": 0
+      },
+      "output_tokens": 44,
+      "output_tokens_details": {
+        "reasoning_tokens": 29
+      },
+      "total_tokens": 15613
+    },
+    "finished_utc": "2026-11-02T00:00:47+00:00"
+  },
+  {
+    "attempt": 57,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1820144/000182014426000004/0001820144-26-000004-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:00:48+00:00",
+    "status": "completed",
+    "response_id": "resp_08eb323f503688d1016ae7d2b106b887d2a22fa76beb89e273",
+    "usage": {
+      "input_tokens": 4968,
+      "input_tokens_details": {
+        "cache_write_tokens": 4965,
+        "cached_tokens": 0
+      },
+      "output_tokens": 45,
+      "output_tokens_details": {
+        "reasoning_tokens": 30
+      },
+      "total_tokens": 5013
+    },
+    "finished_utc": "2026-11-02T00:00:50+00:00"
+  },
+  {
+    "attempt": 58,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/856984/000149315226018222/0001493152-26-018222-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:00:51+00:00",
+    "status": "completed",
+    "response_id": "resp_0a9d852444e6b503016ae7d2b41b2487d2ba0fbcddf8cd85bd",
+    "usage": {
+      "input_tokens": 3140,
+      "input_tokens_details": {
+        "cache_write_tokens": 3137,
+        "cached_tokens": 0
+      },
+      "output_tokens": 295,
+      "output_tokens_details": {
+        "reasoning_tokens": 98
+      },
+      "total_tokens": 3435
+    },
+    "finished_utc": "2026-11-02T00:02:58+00:00"
+  },
+  {
+    "attempt": 59,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000094/0000078003-26-000094-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:00:56+00:00",
+    "status": "completed",
+    "response_id": "resp_0f39bc3c6a7ce5e3016ae7d2b82a5c87d2a31e978eaa3cceea",
+    "usage": {
+      "input_tokens": 15795,
+      "input_tokens_details": {
+        "cache_write_tokens": 15792,
+        "cached_tokens": 0
+      },
+      "output_tokens": 106,
+      "output_tokens_details": {
+        "reasoning_tokens": 91
+      },
+      "total_tokens": 15901
+    },
+    "finished_utc": "2026-11-02T00:00:58+00:00"
+  },
+  {
+    "attempt": 60,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1947210/000175392626001993/0001753926-26-001993-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:00:58+00:00",
+    "status": "completed",
+    "response_id": "resp_076e324b20d98fd9016ae7d2bb0f5487d2b4b649c6e804fb7c",
+    "usage": {
+      "input_tokens": 2896,
+      "input_tokens_details": {
+        "cache_write_tokens": 2893,
+        "cached_tokens": 0
+      },
+      "output_tokens": 283,
+      "output_tokens_details": {
+        "reasoning_tokens": 61
+      },
+      "total_tokens": 3179
+    },
+    "finished_utc": "2026-11-02T00:01:02+00:00"
+  },
+  {
+    "attempt": 61,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/883975/000149315226019775/0001493152-26-019775-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:48:47+00:00",
+    "status": "completed",
+    "response_id": "resp_086dd504c16fad17016ae7ddf0774c87d2922f55bcc8d854ce",
+    "usage": {
+      "input_tokens": 2812,
+      "input_tokens_details": {
+        "cache_write_tokens": 2809,
+        "cached_tokens": 0
+      },
+      "output_tokens": 49,
+      "output_tokens_details": {
+        "reasoning_tokens": 34
+      },
+      "total_tokens": 2861
+    },
+    "finished_utc": "2026-11-02T00:48:50+00:00"
+  },
+  {
+    "attempt": 62,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000004/0001714899-26-000004-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:48:51+00:00",
+    "status": "completed",
+    "response_id": "resp_0fe3ec3d66daa6ed016ae7ddf3481c87d2bb732b726670be41",
+    "usage": {
+      "input_tokens": 4311,
+      "input_tokens_details": {
+        "cache_write_tokens": 4308,
+        "cached_tokens": 0
+      },
+      "output_tokens": 40,
+      "output_tokens_details": {
+        "reasoning_tokens": 25
+      },
+      "total_tokens": 4351
+    },
+    "finished_utc": "2026-11-02T00:48:52+00:00"
+  },
+  {
+    "attempt": 63,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/318306/000149315226009299/0001493152-26-009299-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:48:53+00:00",
+    "status": "completed",
+    "response_id": "resp_0f22a4ed2ce14a0b016ae7ddf5915487d2b3821ca3c0701134",
+    "usage": {
+      "input_tokens": 3157,
+      "input_tokens_details": {
+        "cache_write_tokens": 3154,
+        "cached_tokens": 0
+      },
+      "output_tokens": 67,
+      "output_tokens_details": {
+        "reasoning_tokens": 52
+      },
+      "total_tokens": 3224
+    },
+    "finished_utc": "2026-11-02T00:48:55+00:00"
+  },
+  {
+    "attempt": 64,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315226014813/0001493152-26-014813-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:48:55+00:00",
+    "status": "completed",
+    "response_id": "resp_0647978f215fa07e016ae7ddf806c487d289b891c576f27a63",
+    "usage": {
+      "input_tokens": 2067,
+      "input_tokens_details": {
+        "cache_write_tokens": 2064,
+        "cached_tokens": 0
+      },
+      "output_tokens": 343,
+      "output_tokens_details": {
+        "reasoning_tokens": 112
+      },
+      "total_tokens": 2410
+    },
+    "finished_utc": "2026-11-02T00:48:59+00:00"
+  },
+  {
+    "attempt": 65,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1699350/000169935026000021/0001699350-26-000021-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:00+00:00",
+    "status": "completed",
+    "response_id": "resp_043fe190e4a56c98016ae7ddfc803487d2a939e08dacb37564",
+    "usage": {
+      "input_tokens": 2026,
+      "input_tokens_details": {
+        "cache_write_tokens": 2023,
+        "cached_tokens": 0
+      },
+      "output_tokens": 320,
+      "output_tokens_details": {
+        "reasoning_tokens": 75
+      },
+      "total_tokens": 2346
+    },
+    "finished_utc": "2026-11-02T00:49:03+00:00"
+  },
+  {
+    "attempt": 66,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/882095/000110465926049874/0001104659-26-049874-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:04+00:00",
+    "status": "completed",
+    "response_id": "resp_0705eb243f6b79da016ae7de00f9d087d2a16c9fd3b53c2419",
+    "usage": {
+      "input_tokens": 4404,
+      "input_tokens_details": {
+        "cache_write_tokens": 4401,
+        "cached_tokens": 0
+      },
+      "output_tokens": 40,
+      "output_tokens_details": {
+        "reasoning_tokens": 25
+      },
+      "total_tokens": 4444
+    },
+    "finished_utc": "2026-11-02T00:49:06+00:00"
+  },
+  {
+    "attempt": 67,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1649989/000110465926086685/0001104659-26-086685-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:07+00:00",
+    "status": "completed",
+    "response_id": "resp_0d1ebac17107fd9e016ae7de032f9487d2aa1a971f305f521c",
+    "usage": {
+      "input_tokens": 4052,
+      "input_tokens_details": {
+        "cache_write_tokens": 4049,
+        "cached_tokens": 0
+      },
+      "output_tokens": 156,
+      "output_tokens_details": {
+        "reasoning_tokens": 141
+      },
+      "total_tokens": 4208
+    },
+    "finished_utc": "2026-11-02T00:49:09+00:00"
+  },
+  {
+    "attempt": 68,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315226035922/0001493152-26-035922-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:10+00:00",
+    "status": "completed",
+    "response_id": "resp_0b2475d95648ef53016ae7de067e0087d2b9816ee5d89551e4",
+    "usage": {
+      "input_tokens": 2356,
+      "input_tokens_details": {
+        "cache_write_tokens": 2353,
+        "cached_tokens": 0
+      },
+      "output_tokens": 386,
+      "output_tokens_details": {
+        "reasoning_tokens": 110
+      },
+      "total_tokens": 2742
+    },
+    "finished_utc": "2026-11-02T00:49:14+00:00"
+  },
+  {
+    "attempt": 69,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1674632/000119312526392088/0001193125-26-392088-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:15+00:00",
+    "status": "completed",
+    "response_id": "resp_0d8add62317777cf016ae7de0b701487d2bd2825118ff5b30e",
+    "usage": {
+      "input_tokens": 14289,
+      "input_tokens_details": {
+        "cache_write_tokens": 14286,
+        "cached_tokens": 0
+      },
+      "output_tokens": 83,
+      "output_tokens_details": {
+        "reasoning_tokens": 68
+      },
+      "total_tokens": 14372
+    },
+    "finished_utc": "2026-11-02T00:49:17+00:00"
+  },
+  {
+    "attempt": 70,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1699350/000169935026000058/0001699350-26-000058-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:17+00:00",
+    "status": "completed",
+    "response_id": "resp_09cec9e9edb0129a016ae7de0e19a487d28b85049b0b4e6b16",
+    "usage": {
+      "input_tokens": 2120,
+      "input_tokens_details": {
+        "cache_write_tokens": 2117,
+        "cached_tokens": 0
+      },
+      "output_tokens": 307,
+      "output_tokens_details": {
+        "reasoning_tokens": 68
+      },
+      "total_tokens": 2427
+    },
+    "finished_utc": "2026-11-02T00:49:21+00:00"
+  },
+  {
+    "attempt": 71,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1385818/000143774926001543/0001437749-26-001543-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:22+00:00",
+    "status": "completed",
+    "response_id": "resp_09d168a4369d77d9016ae7de125fd887d2b2cc48337bc252a7",
+    "usage": {
+      "input_tokens": 9195,
+      "input_tokens_details": {
+        "cache_write_tokens": 9192,
+        "cached_tokens": 0
+      },
+      "output_tokens": 46,
+      "output_tokens_details": {
+        "reasoning_tokens": 30
+      },
+      "total_tokens": 9241
+    },
+    "finished_utc": "2026-11-02T00:49:23+00:00"
+  },
+  {
+    "attempt": 72,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1725430/000149315226004068/0001493152-26-004068-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:24+00:00",
+    "status": "completed",
+    "response_id": "resp_06ff6866c8477a99016ae7de15082087d2932e442e21a6fe33",
+    "usage": {
+      "input_tokens": 2730,
+      "input_tokens_details": {
+        "cache_write_tokens": 2727,
+        "cached_tokens": 0
+      },
+      "output_tokens": 34,
+      "output_tokens_details": {
+        "reasoning_tokens": 19
+      },
+      "total_tokens": 2764
+    },
+    "finished_utc": "2026-11-02T00:49:26+00:00"
+  },
+  {
+    "attempt": 73,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1096275/000149315226011531/0001493152-26-011531-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:26+00:00",
+    "status": "completed",
+    "response_id": "resp_06769b14800b3c59016ae7de17111887d2bd79f2ab5a7e2367",
+    "usage": {
+      "input_tokens": 3149,
+      "input_tokens_details": {
+        "cache_write_tokens": 3146,
+        "cached_tokens": 0
+      },
+      "output_tokens": 43,
+      "output_tokens_details": {
+        "reasoning_tokens": 28
+      },
+      "total_tokens": 3192
+    },
+    "finished_utc": "2026-11-02T00:49:28+00:00"
+  },
+  {
+    "attempt": 74,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1626644/000168316826003205/0001683168-26-003205-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:28+00:00",
+    "status": "completed",
+    "response_id": "resp_0163ed44995c0464016ae7de1903bc87d2a57052f49719413c",
+    "usage": {
+      "input_tokens": 2640,
+      "input_tokens_details": {
+        "cache_write_tokens": 2637,
+        "cached_tokens": 0
+      },
+      "output_tokens": 61,
+      "output_tokens_details": {
+        "reasoning_tokens": 46
+      },
+      "total_tokens": 2701
+    },
+    "finished_utc": "2026-11-02T00:49:30+00:00"
+  },
+  {
+    "attempt": 75,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1994702/000119312526316916/0001193125-26-316916-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:30+00:00",
+    "status": "completed",
+    "response_id": "resp_0f095d31a8877b97016ae7de1b0c6c87d28378c9136b896f04",
+    "usage": {
+      "input_tokens": 3556,
+      "input_tokens_details": {
+        "cache_write_tokens": 3553,
+        "cached_tokens": 0
+      },
+      "output_tokens": 39,
+      "output_tokens_details": {
+        "reasoning_tokens": 24
+      },
+      "total_tokens": 3595
+    },
+    "finished_utc": "2026-11-02T00:49:32+00:00"
+  },
+  {
+    "attempt": 76,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1708527/000110465926099731/0001104659-26-099731-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T00:49:33+00:00",
+    "status": "completed",
+    "response_id": "resp_0bb29e883e32ebbb016ae7de1d432887d293b75ed6d436caa1",
+    "usage": {
+      "input_tokens": 8923,
+      "input_tokens_details": {
+        "cache_write_tokens": 8920,
+        "cached_tokens": 0
+      },
+      "output_tokens": 59,
+      "output_tokens_details": {
+        "reasoning_tokens": 44
+      },
+      "total_tokens": 8982
+    },
+    "finished_utc": "2026-11-02T00:49:34+00:00"
+  },
+  {
+    "attempt": 77,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1760903/000149315225000167/0001493152-25-000167-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:02:58+00:00",
+    "status": "completed",
+    "response_id": "resp_0daba418d8e4ab54016ae7e143160887d29aa05a7373eca464",
+    "usage": {
+      "input_tokens": 2743,
+      "input_tokens_details": {
+        "cache_write_tokens": 2740,
+        "cached_tokens": 0
+      },
+      "output_tokens": 561,
+      "output_tokens_details": {
+        "reasoning_tokens": 267
+      },
+      "total_tokens": 3304
+    },
+    "finished_utc": "2026-11-02T01:03:05+00:00"
+  },
+  {
+    "attempt": 78,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1534708/000106299325001255/0001062993-25-001255-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:06+00:00",
+    "status": "completed",
+    "response_id": "resp_0b72582789f6c4b4016ae7e14b128487d28038f1e8b8ccf60e",
+    "usage": {
+      "input_tokens": 2142,
+      "input_tokens_details": {
+        "cache_write_tokens": 2139,
+        "cached_tokens": 0
+      },
+      "output_tokens": 666,
+      "output_tokens_details": {
+        "reasoning_tokens": 480
+      },
+      "total_tokens": 2808
+    },
+    "finished_utc": "2026-11-02T01:03:14+00:00"
+  },
+  {
+    "attempt": 79,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000106299325002235/0001062993-25-002235-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:15+00:00",
+    "status": "completed",
+    "response_id": "resp_0efb85eaf78f1c66016ae7e153befc87d297efb0e5b916e2e8",
+    "usage": {
+      "input_tokens": 3158,
+      "input_tokens_details": {
+        "cache_write_tokens": 3155,
+        "cached_tokens": 0
+      },
+      "output_tokens": 416,
+      "output_tokens_details": {
+        "reasoning_tokens": 194
+      },
+      "total_tokens": 3574
+    },
+    "finished_utc": "2026-11-02T01:03:20+00:00"
+  },
+  {
+    "attempt": 80,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798225000042/0001907982-25-000042-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:21+00:00",
+    "status": "completed",
+    "response_id": "resp_0f01cd60ca629836016ae7e159af2487d2ad2b091499d5f6c0",
+    "usage": {
+      "input_tokens": 4810,
+      "input_tokens_details": {
+        "cache_write_tokens": 4807,
+        "cached_tokens": 0
+      },
+      "output_tokens": 867,
+      "output_tokens_details": {
+        "reasoning_tokens": 604
+      },
+      "total_tokens": 5677
+    },
+    "finished_utc": "2026-11-02T01:03:31+00:00"
+  },
+  {
+    "attempt": 81,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1849221/000149315225007743/0001493152-25-007743-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:33+00:00",
+    "status": "completed",
+    "response_id": "resp_0c4a65892a2689c7016ae7e16542ac87d2aab9edf3eb97c969",
+    "usage": {
+      "input_tokens": 9825,
+      "input_tokens_details": {
+        "cache_write_tokens": 9822,
+        "cached_tokens": 0
+      },
+      "output_tokens": 1019,
+      "output_tokens_details": {
+        "reasoning_tokens": 630
+      },
+      "total_tokens": 10844
+    },
+    "finished_utc": "2026-11-02T01:03:44+00:00"
+  },
+  {
+    "attempt": 82,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1001907/000143774925006761/0001437749-25-006761-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:46+00:00",
+    "status": "completed",
+    "response_id": "resp_056bfe4f35d49adc016ae7e17225c487d2bd216e3224d089f4",
+    "usage": {
+      "input_tokens": 2731,
+      "input_tokens_details": {
+        "cache_write_tokens": 2728,
+        "cached_tokens": 0
+      },
+      "output_tokens": 352,
+      "output_tokens_details": {
+        "reasoning_tokens": 121
+      },
+      "total_tokens": 3083
+    },
+    "finished_utc": "2026-11-02T01:19:03+00:00"
+  },
+  {
+    "attempt": 83,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1377630/000095017025038323/0000950170-25-038323-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:51+00:00",
+    "status": "completed",
+    "response_id": "resp_08e0a7ed46a15728016ae7e177cfb087d29e151c3d564f7df0",
+    "usage": {
+      "input_tokens": 11743,
+      "input_tokens_details": {
+        "cache_write_tokens": 11740,
+        "cached_tokens": 0
+      },
+      "output_tokens": 365,
+      "output_tokens_details": {
+        "reasoning_tokens": 183
+      },
+      "total_tokens": 12108
+    },
+    "finished_utc": "2026-11-02T01:03:55+00:00"
+  },
+  {
+    "attempt": 84,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1867066/000110465925026878/0001104659-25-026878-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:03:56+00:00",
+    "status": "completed",
+    "response_id": "resp_07ba6acf0313c7af016ae7e17cccc887d29271c90b4113614b",
+    "usage": {
+      "input_tokens": 3453,
+      "input_tokens_details": {
+        "cache_write_tokens": 3450,
+        "cached_tokens": 0
+      },
+      "output_tokens": 351,
+      "output_tokens_details": {
+        "reasoning_tokens": 75
+      },
+      "total_tokens": 3804
+    },
+    "finished_utc": "2026-11-02T01:04:00+00:00"
+  },
+  {
+    "attempt": 85,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1648960/000121390025026264/0001213900-25-026264-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:01+00:00",
+    "status": "completed",
+    "response_id": "resp_0b0e322419692b27016ae7e181e4b087d28b96e9ec0e98308f",
+    "usage": {
+      "input_tokens": 2607,
+      "input_tokens_details": {
+        "cache_write_tokens": 2604,
+        "cached_tokens": 0
+      },
+      "output_tokens": 459,
+      "output_tokens_details": {
+        "reasoning_tokens": 260
+      },
+      "total_tokens": 3066
+    },
+    "finished_utc": "2026-11-02T01:04:06+00:00"
+  },
+  {
+    "attempt": 86,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798225000072/0001907982-25-000072-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:07+00:00",
+    "status": "completed",
+    "response_id": "resp_05b019aba7c4bad7016ae7e187edc487d2a86941c16b3e9b74",
+    "usage": {
+      "input_tokens": 3128,
+      "input_tokens_details": {
+        "cache_write_tokens": 3125,
+        "cached_tokens": 0
+      },
+      "output_tokens": 352,
+      "output_tokens_details": {
+        "reasoning_tokens": 172
+      },
+      "total_tokens": 3480
+    },
+    "finished_utc": "2026-11-02T01:04:12+00:00"
+  },
+  {
+    "attempt": 87,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1430306/000199937125003564/0001999371-25-003564-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:13+00:00",
+    "status": "completed",
+    "response_id": "resp_05aa1b2626631148016ae7e18d964887d29929dd04324bfe22",
+    "usage": {
+      "input_tokens": 4612,
+      "input_tokens_details": {
+        "cache_write_tokens": 4609,
+        "cached_tokens": 0
+      },
+      "output_tokens": 309,
+      "output_tokens_details": {
+        "reasoning_tokens": 101
+      },
+      "total_tokens": 4921
+    },
+    "finished_utc": "2026-11-02T01:04:17+00:00"
+  },
+  {
+    "attempt": 88,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1607962/000117891325001308/0001178913-25-001308-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:18+00:00",
+    "status": "completed",
+    "response_id": "resp_069d2ae208b42c08016ae7e192a00487d2aafd143f1cef2773",
+    "usage": {
+      "input_tokens": 3085,
+      "input_tokens_details": {
+        "cache_write_tokens": 3082,
+        "cached_tokens": 0
+      },
+      "output_tokens": 347,
+      "output_tokens_details": {
+        "reasoning_tokens": 169
+      },
+      "total_tokens": 3432
+    },
+    "finished_utc": "2026-11-02T01:04:22+00:00"
+  },
+  {
+    "attempt": 89,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/8146/000119312525087324/0001193125-25-087324-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:23+00:00",
+    "status": "completed",
+    "response_id": "resp_0bf32cf1090c150f016ae7e1980a1c87d29317908b2fd2b9ed",
+    "usage": {
+      "input_tokens": 3469,
+      "input_tokens_details": {
+        "cache_write_tokens": 3466,
+        "cached_tokens": 0
+      },
+      "output_tokens": 1339,
+      "output_tokens_details": {
+        "reasoning_tokens": 410
+      },
+      "total_tokens": 4808
+    },
+    "finished_utc": "2026-11-02T01:04:36+00:00"
+  },
+  {
+    "attempt": 90,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465925043074/0001104659-25-043074-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:37+00:00",
+    "status": "completed",
+    "response_id": "resp_0396ab809a248bc7016ae7e1a5946c87d291c9b4a807dcd733",
+    "usage": {
+      "input_tokens": 2608,
+      "input_tokens_details": {
+        "cache_write_tokens": 2605,
+        "cached_tokens": 0
+      },
+      "output_tokens": 366,
+      "output_tokens_details": {
+        "reasoning_tokens": 129
+      },
+      "total_tokens": 2974
+    },
+    "finished_utc": "2026-11-02T01:04:42+00:00"
+  },
+  {
+    "attempt": 91,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1829311/000168316825003895/0001683168-25-003895-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:43+00:00",
+    "status": "completed",
+    "response_id": "resp_0a644bc9ed3e0c44016ae7e1ac0a1087d28ebbd4f00bc1d777",
+    "usage": {
+      "input_tokens": 3104,
+      "input_tokens_details": {
+        "cache_write_tokens": 3101,
+        "cached_tokens": 0
+      },
+      "output_tokens": 542,
+      "output_tokens_details": {
+        "reasoning_tokens": 344
+      },
+      "total_tokens": 3646
+    },
+    "finished_utc": "2026-11-02T01:04:50+00:00"
+  },
+  {
+    "attempt": 92,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2030954/000164117225013240/0001641172-25-013240-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:51+00:00",
+    "status": "completed",
+    "response_id": "resp_0b490a72d30ad7f1016ae7e1b3e9d487d2b8abc60abfc9dfd6",
+    "usage": {
+      "input_tokens": 2288,
+      "input_tokens_details": {
+        "cache_write_tokens": 2285,
+        "cached_tokens": 0
+      },
+      "output_tokens": 135,
+      "output_tokens_details": {
+        "reasoning_tokens": 120
+      },
+      "total_tokens": 2423
+    },
+    "finished_utc": "2026-11-02T01:04:54+00:00"
+  },
+  {
+    "attempt": 93,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798225000169/0001907982-25-000169-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:04:55+00:00",
+    "status": "completed",
+    "response_id": "resp_0e6aa8139db76be2016ae7e1b784d487d2a1e1dbf61e836794",
+    "usage": {
+      "input_tokens": 2862,
+      "input_tokens_details": {
+        "cache_write_tokens": 2859,
+        "cached_tokens": 0
+      },
+      "output_tokens": 588,
+      "output_tokens_details": {
+        "reasoning_tokens": 330
+      },
+      "total_tokens": 3450
+    },
+    "finished_utc": "2026-11-02T01:05:02+00:00"
+  },
+  {
+    "attempt": 94,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1807887/000164117225022933/0001641172-25-022933-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:03+00:00",
+    "status": "completed",
+    "response_id": "resp_0f1067200d5b51f7016ae7e1bf60ac87d2b9f63872bc9db879",
+    "usage": {
+      "input_tokens": 4360,
+      "input_tokens_details": {
+        "cache_write_tokens": 4357,
+        "cached_tokens": 0
+      },
+      "output_tokens": 1755,
+      "output_tokens_details": {
+        "reasoning_tokens": 1545
+      },
+      "total_tokens": 6115
+    },
+    "finished_utc": "2026-11-02T01:05:23+00:00"
+  },
+  {
+    "attempt": 95,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1945619/000168316825005889/0001683168-25-005889-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:23+00:00",
+    "status": "completed",
+    "response_id": "resp_056c41db90d2e3a9016ae7e1d40a6087d2b436ec4376c2b69d",
+    "usage": {
+      "input_tokens": 2398,
+      "input_tokens_details": {
+        "cache_write_tokens": 2395,
+        "cached_tokens": 0
+      },
+      "output_tokens": 327,
+      "output_tokens_details": {
+        "reasoning_tokens": 94
+      },
+      "total_tokens": 2725
+    },
+    "finished_utc": "2026-11-02T01:19:04+00:00"
+  },
+  {
+    "attempt": 96,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2030763/000164117225024053/0001641172-25-024053-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:29+00:00",
+    "status": "completed",
+    "response_id": "resp_037cfd3dc2a5694d016ae7e1d976c487d289cc0606d3bb0b89",
+    "usage": {
+      "input_tokens": 4019,
+      "input_tokens_details": {
+        "cache_write_tokens": 4016,
+        "cached_tokens": 0
+      },
+      "output_tokens": 333,
+      "output_tokens_details": {
+        "reasoning_tokens": 94
+      },
+      "total_tokens": 4352
+    },
+    "finished_utc": "2026-11-02T01:05:33+00:00"
+  },
+  {
+    "attempt": 97,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/802257/000118518525001092/0001185185-25-001092-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:35+00:00",
+    "status": "completed",
+    "response_id": "resp_0c49dd9cbbac2235016ae7e1df768487d2ba13a9f06628047a",
+    "usage": {
+      "input_tokens": 4010,
+      "input_tokens_details": {
+        "cache_write_tokens": 4007,
+        "cached_tokens": 0
+      },
+      "output_tokens": 317,
+      "output_tokens_details": {
+        "reasoning_tokens": 110
+      },
+      "total_tokens": 4327
+    },
+    "finished_utc": "2026-11-02T01:05:39+00:00"
+  },
+  {
+    "attempt": 98,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1141284/000121390025084298/0001213900-25-084298-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:40+00:00",
+    "status": "completed",
+    "response_id": "resp_0caa448e3b79aa33016ae7e1e4817c87d2862c7585634e90cf",
+    "usage": {
+      "input_tokens": 2880,
+      "input_tokens_details": {
+        "cache_write_tokens": 2877,
+        "cached_tokens": 0
+      },
+      "output_tokens": 372,
+      "output_tokens_details": {
+        "reasoning_tokens": 134
+      },
+      "total_tokens": 3252
+    },
+    "finished_utc": "2026-11-02T01:05:44+00:00"
+  },
+  {
+    "attempt": 99,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000149315225013352/0001493152-25-013352-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:45+00:00",
+    "status": "completed",
+    "response_id": "resp_0e44bfe638b352d1016ae7e1e9c4c487d2a4c02b58f370fe0d",
+    "usage": {
+      "input_tokens": 3142,
+      "input_tokens_details": {
+        "cache_write_tokens": 3139,
+        "cached_tokens": 0
+      },
+      "output_tokens": 289,
+      "output_tokens_details": {
+        "reasoning_tokens": 109
+      },
+      "total_tokens": 3431
+    },
+    "finished_utc": "2026-11-02T01:05:49+00:00"
+  },
+  {
+    "attempt": 100,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1941029/000121390025089566/0001213900-25-089566-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:50+00:00",
+    "status": "completed",
+    "response_id": "resp_0b927c943b841eb4016ae7e1eeb55c87d2badb706366341b36",
+    "usage": {
+      "input_tokens": 2486,
+      "input_tokens_details": {
+        "cache_write_tokens": 2483,
+        "cached_tokens": 0
+      },
+      "output_tokens": 521,
+      "output_tokens_details": {
+        "reasoning_tokens": 280
+      },
+      "total_tokens": 3007
+    },
+    "finished_utc": "2026-11-02T01:05:56+00:00"
+  },
+  {
+    "attempt": 101,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465925095884/0001104659-25-095884-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:05:57+00:00",
+    "status": "completed",
+    "response_id": "resp_03d18f3b7aba29f3016ae7e1f5cc7487d296626ee2a98ca003",
+    "usage": {
+      "input_tokens": 2915,
+      "input_tokens_details": {
+        "cache_write_tokens": 2912,
+        "cached_tokens": 0
+      },
+      "output_tokens": 355,
+      "output_tokens_details": {
+        "reasoning_tokens": 116
+      },
+      "total_tokens": 3270
+    },
+    "finished_utc": "2026-11-02T01:19:04+00:00"
+  },
+  {
+    "attempt": 102,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000246/0001086222-25-000246-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:02+00:00",
+    "status": "completed",
+    "response_id": "resp_0ad60d0658285f84016ae7e1fa2bc887d28e1a0107bbd4f138",
+    "usage": {
+      "input_tokens": 2844,
+      "input_tokens_details": {
+        "cache_write_tokens": 2841,
+        "cached_tokens": 0
+      },
+      "output_tokens": 302,
+      "output_tokens_details": {
+        "reasoning_tokens": 93
+      },
+      "total_tokens": 3146
+    },
+    "finished_utc": "2026-11-02T01:06:05+00:00"
+  },
+  {
+    "attempt": 103,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184325007425/0001171843-25-007425-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:06+00:00",
+    "status": "completed",
+    "response_id": "resp_0e3feeb6caaa314f016ae7e1ff192087d2a0627d7f363da501",
+    "usage": {
+      "input_tokens": 2824,
+      "input_tokens_details": {
+        "cache_write_tokens": 2821,
+        "cached_tokens": 0
+      },
+      "output_tokens": 947,
+      "output_tokens_details": {
+        "reasoning_tokens": 512
+      },
+      "total_tokens": 3771
+    },
+    "finished_utc": "2026-11-02T01:06:16+00:00"
+  },
+  {
+    "attempt": 104,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1096275/000106299325017103/0001062993-25-017103-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:17+00:00",
+    "status": "completed",
+    "response_id": "resp_04262994ed9b1e37016ae7e209554087d294c065931892a853",
+    "usage": {
+      "input_tokens": 3173,
+      "input_tokens_details": {
+        "cache_write_tokens": 3170,
+        "cached_tokens": 0
+      },
+      "output_tokens": 1051,
+      "output_tokens_details": {
+        "reasoning_tokens": 704
+      },
+      "total_tokens": 4224
+    },
+    "finished_utc": "2026-11-02T01:06:28+00:00"
+  },
+  {
+    "attempt": 105,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/926326/000110465925119083/0001104659-25-119083-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:28+00:00",
+    "status": "completed",
+    "response_id": "resp_02de5057a6c148b9016ae7e214f17c87d2980a5f3b01e5ed24",
+    "usage": {
+      "input_tokens": 3494,
+      "input_tokens_details": {
+        "cache_write_tokens": 3491,
+        "cached_tokens": 0
+      },
+      "output_tokens": 467,
+      "output_tokens_details": {
+        "reasoning_tokens": 259
+      },
+      "total_tokens": 3961
+    },
+    "finished_utc": "2026-11-02T01:06:33+00:00"
+  },
+  {
+    "attempt": 106,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1895249/000110465925119865/0001104659-25-119865-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:34+00:00",
+    "status": "completed",
+    "response_id": "resp_0e6865ff8b81ee1e016ae7e21acb7487d2b80bc2f2d3648161",
+    "usage": {
+      "input_tokens": 2656,
+      "input_tokens_details": {
+        "cache_write_tokens": 2653,
+        "cached_tokens": 0
+      },
+      "output_tokens": 362,
+      "output_tokens_details": {
+        "reasoning_tokens": 127
+      },
+      "total_tokens": 3018
+    },
+    "finished_utc": "2026-11-02T01:06:39+00:00"
+  },
+  {
+    "attempt": 107,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1498148/000149315225028254/0001493152-25-028254-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:40+00:00",
+    "status": "completed",
+    "response_id": "resp_088078a85eb56620016ae7e2203e1087d2bff1141cd22b556a",
+    "usage": {
+      "input_tokens": 3107,
+      "input_tokens_details": {
+        "cache_write_tokens": 3104,
+        "cached_tokens": 0
+      },
+      "output_tokens": 467,
+      "output_tokens_details": {
+        "reasoning_tokens": 222
+      },
+      "total_tokens": 3574
+    },
+    "finished_utc": "2026-11-02T01:19:04+00:00"
+  },
+  {
+    "attempt": 108,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1895249/000110465925124787/0001104659-25-124787-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:06:45+00:00",
+    "status": "completed",
+    "response_id": "resp_0a0f0e23791b9e00016ae7e225ce5c87d28c7e41f362bd2c1d",
+    "usage": {
+      "input_tokens": 2716,
+      "input_tokens_details": {
+        "cache_write_tokens": 2713,
+        "cached_tokens": 0
+      },
+      "output_tokens": 305,
+      "output_tokens_details": {
+        "reasoning_tokens": 88
+      },
+      "total_tokens": 3021
+    },
+    "finished_utc": "2026-11-02T01:06:48+00:00"
+  },
+  {
+    "attempt": 109,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1844149/000121390024065402/0001213900-24-065402-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:27:48+00:00",
+    "status": "completed",
+    "response_id": "resp_002a1470fe0808ea016ae7e714dd6c87d2a08a647a6b5203eb",
+    "usage": {
+      "input_tokens": 3599,
+      "input_tokens_details": {
+        "cache_write_tokens": 3596,
+        "cached_tokens": 0
+      },
+      "output_tokens": 331,
+      "output_tokens_details": {
+        "reasoning_tokens": 102
+      },
+      "total_tokens": 3930
+    },
+    "finished_utc": "2026-11-02T01:27:53+00:00"
+  },
+  {
+    "attempt": 110,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1641398/000121390024072201/0001213900-24-072201-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:27:53+00:00",
+    "status": "completed",
+    "response_id": "resp_0bd3a239a8302b3a016ae7e71a786c87d2b50275da5ef1c55f",
+    "usage": {
+      "input_tokens": 3680,
+      "input_tokens_details": {
+        "cache_write_tokens": 3677,
+        "cached_tokens": 0
+      },
+      "output_tokens": 409,
+      "output_tokens_details": {
+        "reasoning_tokens": 185
+      },
+      "total_tokens": 4089
+    },
+    "finished_utc": "2026-11-02T01:27:58+00:00"
+  },
+  {
+    "attempt": 111,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315224034019/0001493152-24-034019-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:27:59+00:00",
+    "status": "completed",
+    "response_id": "resp_0f54fd7d335159cf016ae7e71f61a887d2937fc9767b2b247c",
+    "usage": {
+      "input_tokens": 2103,
+      "input_tokens_details": {
+        "cache_write_tokens": 2100,
+        "cached_tokens": 0
+      },
+      "output_tokens": 356,
+      "output_tokens_details": {
+        "reasoning_tokens": 135
+      },
+      "total_tokens": 2459
+    },
+    "finished_utc": "2026-11-02T01:28:03+00:00"
+  },
+  {
+    "attempt": 112,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728224000104/0001627282-24-000104-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:03+00:00",
+    "status": "completed",
+    "response_id": "resp_0ba064d60b8d9bc4016ae7e723d95887d2aa42597c31fa814e",
+    "usage": {
+      "input_tokens": 2666,
+      "input_tokens_details": {
+        "cache_write_tokens": 2663,
+        "cached_tokens": 0
+      },
+      "output_tokens": 334,
+      "output_tokens_details": {
+        "reasoning_tokens": 86
+      },
+      "total_tokens": 3000
+    },
+    "finished_utc": "2026-11-02T01:28:07+00:00"
+  },
+  {
+    "attempt": 113,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315224040288/0001493152-24-040288-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:07+00:00",
+    "status": "completed",
+    "response_id": "resp_003d733fe30005f3016ae7e728217c87d297c04d9df30fe39f",
+    "usage": {
+      "input_tokens": 2103,
+      "input_tokens_details": {
+        "cache_write_tokens": 2100,
+        "cached_tokens": 0
+      },
+      "output_tokens": 326,
+      "output_tokens_details": {
+        "reasoning_tokens": 69
+      },
+      "total_tokens": 2429
+    },
+    "finished_utc": "2026-11-02T01:28:11+00:00"
+  },
+  {
+    "attempt": 114,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315224048294/0001493152-24-048294-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:12+00:00",
+    "status": "completed",
+    "response_id": "resp_0aec94b45bf4d967016ae7e72cb7f487d2b9de377cb6363628",
+    "usage": {
+      "input_tokens": 2079,
+      "input_tokens_details": {
+        "cache_write_tokens": 2076,
+        "cached_tokens": 0
+      },
+      "output_tokens": 438,
+      "output_tokens_details": {
+        "reasoning_tokens": 188
+      },
+      "total_tokens": 2517
+    },
+    "finished_utc": "2026-11-02T01:28:17+00:00"
+  },
+  {
+    "attempt": 115,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465924127030/0001104659-24-127030-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:18+00:00",
+    "status": "completed",
+    "response_id": "resp_00d5f73bfd514b53016ae7e732321487d2987caaf54fff0c4c",
+    "usage": {
+      "input_tokens": 2904,
+      "input_tokens_details": {
+        "cache_write_tokens": 2901,
+        "cached_tokens": 0
+      },
+      "output_tokens": 364,
+      "output_tokens_details": {
+        "reasoning_tokens": 113
+      },
+      "total_tokens": 3268
+    },
+    "finished_utc": "2026-11-02T01:28:21+00:00"
+  },
+  {
+    "attempt": 116,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315224052104/0001493152-24-052104-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:22+00:00",
+    "status": "completed",
+    "response_id": "resp_0b537807e265c8ed016ae7e736efb487d28b82eaf4315116c3",
+    "usage": {
+      "input_tokens": 2078,
+      "input_tokens_details": {
+        "cache_write_tokens": 2075,
+        "cached_tokens": 0
+      },
+      "output_tokens": 391,
+      "output_tokens_details": {
+        "reasoning_tokens": 117
+      },
+      "total_tokens": 2469
+    },
+    "finished_utc": "2026-11-02T01:28:26+00:00"
+  },
+  {
+    "attempt": 117,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2001557/000114036126015808/0001140361-26-015808-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:27+00:00",
+    "status": "completed",
+    "response_id": "resp_00b8b3e0a4033df5016ae7e73bb89887d29a37f243b70849d2",
+    "usage": {
+      "input_tokens": 3534,
+      "input_tokens_details": {
+        "cache_write_tokens": 3531,
+        "cached_tokens": 0
+      },
+      "output_tokens": 777,
+      "output_tokens_details": {
+        "reasoning_tokens": 419
+      },
+      "total_tokens": 4311
+    },
+    "finished_utc": "2026-11-02T01:28:34+00:00"
+  },
+  {
+    "attempt": 118,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1805521/000121390026069623/0001213900-26-069623-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:35+00:00",
+    "status": "completed",
+    "response_id": "resp_0a1e085b3c7d3a59016ae7e743a89887d2b6335cd2512f2ae5",
+    "usage": {
+      "input_tokens": 5929,
+      "input_tokens_details": {
+        "cache_write_tokens": 5926,
+        "cached_tokens": 0
+      },
+      "output_tokens": 1162,
+      "output_tokens_details": {
+        "reasoning_tokens": 602
+      },
+      "total_tokens": 7091
+    },
+    "finished_utc": "2026-11-02T01:28:47+00:00"
+  },
+  {
+    "attempt": 119,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226046936/0001493152-26-046936-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:47+00:00",
+    "status": "completed",
+    "response_id": "resp_06df6c96374ccb86016ae7e74fe7d087d2977a5a5fa4dace4f",
+    "usage": {
+      "input_tokens": 3068,
+      "input_tokens_details": {
+        "cache_write_tokens": 3065,
+        "cached_tokens": 0
+      },
+      "output_tokens": 268,
+      "output_tokens_details": {
+        "reasoning_tokens": 61
+      },
+      "total_tokens": 3336
+    },
+    "finished_utc": "2026-11-02T01:28:50+00:00"
+  },
+  {
+    "attempt": 120,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1068689/000149315226048029/0001493152-26-048029-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:28:51+00:00",
+    "status": "completed",
+    "response_id": "resp_0efc3d0aa47106a8016ae7e753867487d2bd041b72f506085b",
+    "usage": {
+      "input_tokens": 4485,
+      "input_tokens_details": {
+        "cache_write_tokens": 4482,
+        "cached_tokens": 0
+      },
+      "output_tokens": 286,
+      "output_tokens_details": {
+        "reasoning_tokens": 127
+      },
+      "total_tokens": 4771
+    },
+    "finished_utc": "2026-11-02T01:28:54+00:00"
+  },
+  {
+    "attempt": 121,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465923002053/0001104659-23-002053-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:20+00:00",
+    "status": "completed",
+    "response_id": "resp_0bd2e3166930e4f2016ae7ee00d23487d28f9f06f6eabf61d1",
+    "usage": {
+      "input_tokens": 2486,
+      "input_tokens_details": {
+        "cache_write_tokens": 2483,
+        "cached_tokens": 0
+      },
+      "output_tokens": 279,
+      "output_tokens_details": {
+        "reasoning_tokens": 56
+      },
+      "total_tokens": 2765
+    },
+    "finished_utc": "2026-11-02T01:57:23+00:00"
+  },
+  {
+    "attempt": 122,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/818033/000095017023006139/0000950170-23-006139-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:24+00:00",
+    "status": "completed",
+    "response_id": "resp_0f65e98cf96b8abf016ae7ee0518f887d2b99d6cd63f23b6df",
+    "usage": {
+      "input_tokens": 3208,
+      "input_tokens_details": {
+        "cache_write_tokens": 3205,
+        "cached_tokens": 0
+      },
+      "output_tokens": 316,
+      "output_tokens_details": {
+        "reasoning_tokens": 80
+      },
+      "total_tokens": 3524
+    },
+    "finished_utc": "2026-11-02T01:57:28+00:00"
+  },
+  {
+    "attempt": 123,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1641398/000121390023073903/0001213900-23-073903-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:29+00:00",
+    "status": "completed",
+    "response_id": "resp_0b8f9e522c6d217b016ae7ee09381c87d28a580151298fda3d",
+    "usage": {
+      "input_tokens": 2296,
+      "input_tokens_details": {
+        "cache_write_tokens": 2293,
+        "cached_tokens": 0
+      },
+      "output_tokens": 314,
+      "output_tokens_details": {
+        "reasoning_tokens": 96
+      },
+      "total_tokens": 2610
+    },
+    "finished_utc": "2026-11-02T01:57:32+00:00"
+  },
+  {
+    "attempt": 124,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1775194/000147793223007734/0001477932-23-007734-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:33+00:00",
+    "status": "completed",
+    "response_id": "resp_05bb1a5851f85e41016ae7ee0da6ec87d2bce6e8d132c8af66",
+    "usage": {
+      "input_tokens": 2170,
+      "input_tokens_details": {
+        "cache_write_tokens": 2167,
+        "cached_tokens": 0
+      },
+      "output_tokens": 253,
+      "output_tokens_details": {
+        "reasoning_tokens": 100
+      },
+      "total_tokens": 2423
+    },
+    "finished_utc": "2026-11-02T01:57:36+00:00"
+  },
+  {
+    "attempt": 125,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390023081931/0001213900-23-081931-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:37+00:00",
+    "status": "completed",
+    "response_id": "resp_0b5e8935480f6496016ae7ee11ee3087d2a7bff761504eef80",
+    "usage": {
+      "input_tokens": 2741,
+      "input_tokens_details": {
+        "cache_write_tokens": 2738,
+        "cached_tokens": 0
+      },
+      "output_tokens": 362,
+      "output_tokens_details": {
+        "reasoning_tokens": 124
+      },
+      "total_tokens": 3103
+    },
+    "finished_utc": "2026-11-02T01:57:41+00:00"
+  },
+  {
+    "attempt": 126,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1934245/000149315223042013/0001493152-23-042013-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:42+00:00",
+    "status": "completed",
+    "response_id": "resp_0b988fbd99664e28016ae7ee165e7487d2b56c6acc46a3e84f",
+    "usage": {
+      "input_tokens": 2826,
+      "input_tokens_details": {
+        "cache_write_tokens": 2823,
+        "cached_tokens": 0
+      },
+      "output_tokens": 566,
+      "output_tokens_details": {
+        "reasoning_tokens": 360
+      },
+      "total_tokens": 3392
+    },
+    "finished_utc": "2026-11-02T01:57:47+00:00"
+  },
+  {
+    "attempt": 127,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/924717/000095017024050881/0000950170-24-050881-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:48+00:00",
+    "status": "completed",
+    "response_id": "resp_0239c672353653ed016ae7ee1cc2a887d2a2b9bc72e92a71ff",
+    "usage": {
+      "input_tokens": 10046,
+      "input_tokens_details": {
+        "cache_write_tokens": 10043,
+        "cached_tokens": 0
+      },
+      "output_tokens": 616,
+      "output_tokens_details": {
+        "reasoning_tokens": 213
+      },
+      "total_tokens": 10662
+    },
+    "finished_utc": "2026-11-02T01:57:53+00:00"
+  },
+  {
+    "attempt": 128,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1378140/000149315224024152/0001493152-24-024152-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:54+00:00",
+    "status": "completed",
+    "response_id": "resp_0345e19f4ce8d91b016ae7ee22c74087d286f14875150b1f68",
+    "usage": {
+      "input_tokens": 2088,
+      "input_tokens_details": {
+        "cache_write_tokens": 2085,
+        "cached_tokens": 0
+      },
+      "output_tokens": 304,
+      "output_tokens_details": {
+        "reasoning_tokens": 83
+      },
+      "total_tokens": 2392
+    },
+    "finished_utc": "2026-11-02T01:57:57+00:00"
+  },
+  {
+    "attempt": 129,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1858685/000149315224024881/0001493152-24-024881-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:57:58+00:00",
+    "status": "completed",
+    "response_id": "resp_029757289a2b593a016ae7ee26c95887d2a2c1e26c13519329",
+    "usage": {
+      "input_tokens": 2789,
+      "input_tokens_details": {
+        "cache_write_tokens": 2786,
+        "cached_tokens": 0
+      },
+      "output_tokens": 328,
+      "output_tokens_details": {
+        "reasoning_tokens": 151
+      },
+      "total_tokens": 3117
+    },
+    "finished_utc": "2026-11-02T01:58:01+00:00"
+  },
+  {
+    "attempt": 130,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2000762/000168316825000104/0001683168-25-000104-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:02+00:00",
+    "status": "completed",
+    "response_id": "resp_0b03dc8286855243016ae7ee2aa50487d2a69ddebb71f65d79",
+    "usage": {
+      "input_tokens": 2327,
+      "input_tokens_details": {
+        "cache_write_tokens": 2324,
+        "cached_tokens": 0
+      },
+      "output_tokens": 297,
+      "output_tokens_details": {
+        "reasoning_tokens": 91
+      },
+      "total_tokens": 2624
+    },
+    "finished_utc": "2026-11-02T01:58:05+00:00"
+  },
+  {
+    "attempt": 131,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1849635/000114036125013873/0001140361-25-013873-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:06+00:00",
+    "status": "completed",
+    "response_id": "resp_00e22b6144b5f920016ae7ee2e958c87d2b816ba494d4180e5",
+    "usage": {
+      "input_tokens": 3001,
+      "input_tokens_details": {
+        "cache_write_tokens": 2998,
+        "cached_tokens": 0
+      },
+      "output_tokens": 381,
+      "output_tokens_details": {
+        "reasoning_tokens": 92
+      },
+      "total_tokens": 3382
+    },
+    "finished_utc": "2026-11-02T01:58:10+00:00"
+  },
+  {
+    "attempt": 132,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000164117225007836/0001641172-25-007836-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:11+00:00",
+    "status": "completed",
+    "response_id": "resp_0405df90224a6542016ae7ee33339087d29bd260194d1bc4ab",
+    "usage": {
+      "input_tokens": 2047,
+      "input_tokens_details": {
+        "cache_write_tokens": 2044,
+        "cached_tokens": 0
+      },
+      "output_tokens": 514,
+      "output_tokens_details": {
+        "reasoning_tokens": 215
+      },
+      "total_tokens": 2561
+    },
+    "finished_utc": "2026-11-02T01:58:15+00:00"
+  },
+  {
+    "attempt": 133,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1879001/000164117225008432/0001641172-25-008432-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:16+00:00",
+    "status": "completed",
+    "response_id": "resp_0ff335061f8f474c016ae7ee38afa487d29e9d685731a0d77d",
+    "usage": {
+      "input_tokens": 2743,
+      "input_tokens_details": {
+        "cache_write_tokens": 2740,
+        "cached_tokens": 0
+      },
+      "output_tokens": 269,
+      "output_tokens_details": {
+        "reasoning_tokens": 68
+      },
+      "total_tokens": 3012
+    },
+    "finished_utc": "2026-11-02T01:58:19+00:00"
+  },
+  {
+    "attempt": 134,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1433607/000164117225018302/0001641172-25-018302-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:20+00:00",
+    "status": "completed",
+    "response_id": "resp_0f5a1f7a04f4cc26016ae7ee3c9a0c87d28864d32da78ba1bc",
+    "usage": {
+      "input_tokens": 3137,
+      "input_tokens_details": {
+        "cache_write_tokens": 3134,
+        "cached_tokens": 0
+      },
+      "output_tokens": 318,
+      "output_tokens_details": {
+        "reasoning_tokens": 82
+      },
+      "total_tokens": 3455
+    },
+    "finished_utc": "2026-11-02T01:58:23+00:00"
+  },
+  {
+    "attempt": 135,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1838359/000155837025011219/0001558370-25-011219-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:24+00:00",
+    "status": "completed",
+    "response_id": "resp_0197c1b7949b27bd016ae7ee40ed0087d298ffb65e87e184bf",
+    "usage": {
+      "input_tokens": 6056,
+      "input_tokens_details": {
+        "cache_write_tokens": 6053,
+        "cached_tokens": 0
+      },
+      "output_tokens": 518,
+      "output_tokens_details": {
+        "reasoning_tokens": 296
+      },
+      "total_tokens": 6574
+    },
+    "finished_utc": "2026-11-02T01:58:28+00:00"
+  },
+  {
+    "attempt": 136,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184325006601/0001171843-25-006601-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:30+00:00",
+    "status": "completed",
+    "response_id": "resp_001d141c15c8a081016ae7ee461b7087d299f3136cf947f821",
+    "usage": {
+      "input_tokens": 1843,
+      "input_tokens_details": {
+        "cache_write_tokens": 1840,
+        "cached_tokens": 0
+      },
+      "output_tokens": 256,
+      "output_tokens_details": {
+        "reasoning_tokens": 82
+      },
+      "total_tokens": 2099
+    },
+    "finished_utc": "2026-11-02T01:58:32+00:00"
+  },
+  {
+    "attempt": 137,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/797542/000149315226025728/0001493152-26-025728-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T01:58:33+00:00",
+    "status": "completed",
+    "response_id": "resp_02f7a7b7c03e04a4016ae7ee49acbc87d29916a9ba7c29a9fe",
+    "usage": {
+      "input_tokens": 2684,
+      "input_tokens_details": {
+        "cache_write_tokens": 2681,
+        "cached_tokens": 0
+      },
+      "output_tokens": 305,
+      "output_tokens_details": {
+        "reasoning_tokens": 90
+      },
+      "total_tokens": 2989
+    },
+    "finished_utc": "2026-11-02T01:58:36+00:00"
+  },
+  {
+    "attempt": 138,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/84839/000117120020000189/0001171200-20-000189-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:05:57+00:00",
+    "status": "completed",
+    "response_id": "resp_02a8cd18b5d11e8f016ae7f00686e087d286e0e2f83a68617f",
+    "usage": {
+      "input_tokens": 2923,
+      "input_tokens_details": {
+        "cache_write_tokens": 2920,
+        "cached_tokens": 0
+      },
+      "output_tokens": 942,
+      "output_tokens_details": {
+        "reasoning_tokens": 633
+      },
+      "total_tokens": 3865
+    },
+    "finished_utc": "2026-11-02T02:06:05+00:00"
+  },
+  {
+    "attempt": 139,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/225211/000121390020042428/0001213900-20-042428-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:06:06+00:00",
+    "status": "completed",
+    "response_id": "resp_03013834e0ae541b016ae7f00ee55487d283182d49ee32c5c2",
+    "usage": {
+      "input_tokens": 2514,
+      "input_tokens_details": {
+        "cache_write_tokens": 2511,
+        "cached_tokens": 0
+      },
+      "output_tokens": 362,
+      "output_tokens_details": {
+        "reasoning_tokens": 126
+      },
+      "total_tokens": 2876
+    },
+    "finished_utc": "2026-11-02T02:09:38+00:00"
+  },
+  {
+    "attempt": 140,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465921016929/0001104659-21-016929-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:06:11+00:00",
+    "status": "completed",
+    "response_id": "resp_0bb450315ef44a92016ae7f013802087d2b0c86c926c3cfa92",
+    "usage": {
+      "input_tokens": 3897,
+      "input_tokens_details": {
+        "cache_write_tokens": 3894,
+        "cached_tokens": 0
+      },
+      "output_tokens": 301,
+      "output_tokens_details": {
+        "reasoning_tokens": 108
+      },
+      "total_tokens": 4198
+    },
+    "finished_utc": "2026-11-02T02:06:14+00:00"
+  },
+  {
+    "attempt": 141,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1053369/000121390021024634/0001213900-21-024634-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:06:15+00:00",
+    "status": "completed",
+    "response_id": "resp_0d10eb625d31e4dc016ae7f017fce887d2ab441400c46921e4",
+    "usage": {
+      "input_tokens": 2313,
+      "input_tokens_details": {
+        "cache_write_tokens": 2310,
+        "cached_tokens": 0
+      },
+      "output_tokens": 304,
+      "output_tokens_details": {
+        "reasoning_tokens": 89
+      },
+      "total_tokens": 2617
+    },
+    "finished_utc": "2026-11-02T02:06:19+00:00"
+  },
+  {
+    "attempt": 142,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1051514/000105151422000014/0001051514-22-000014-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:06:20+00:00",
+    "status": "completed",
+    "response_id": "resp_0d2f61973cd7d11e016ae7f01c2ee487d2b01d8f73100498f0",
+    "usage": {
+      "input_tokens": 2973,
+      "input_tokens_details": {
+        "cache_write_tokens": 2970,
+        "cached_tokens": 0
+      },
+      "output_tokens": 291,
+      "output_tokens_details": {
+        "reasoning_tokens": 66
+      },
+      "total_tokens": 3264
+    },
+    "finished_utc": "2026-11-02T02:06:22+00:00"
+  },
+  {
+    "attempt": 143,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1624985/000168316822001341/0001683168-22-001341-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:06:23+00:00",
+    "status": "completed",
+    "response_id": "resp_00027f19f228a017016ae7f01fc60487d298fadb02c5760735",
+    "usage": {
+      "input_tokens": 1958,
+      "input_tokens_details": {
+        "cache_write_tokens": 1955,
+        "cached_tokens": 0
+      },
+      "output_tokens": 90,
+      "output_tokens_details": {
+        "reasoning_tokens": 75
+      },
+      "total_tokens": 2048
+    },
+    "finished_utc": "2026-11-02T02:06:25+00:00"
+  },
+  {
+    "attempt": 144,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1600620/000162828021000758/0001628280-21-000758-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:25+00:00",
+    "status": "completed",
+    "response_id": "resp_09d87f657064f20d016ae7f111a43c87d29185251096e1d017",
+    "usage": {
+      "input_tokens": 9320,
+      "input_tokens_details": {
+        "cache_write_tokens": 9317,
+        "cached_tokens": 0
+      },
+      "output_tokens": 686,
+      "output_tokens_details": {
+        "reasoning_tokens": 318
+      },
+      "total_tokens": 10006
+    },
+    "finished_utc": "2026-11-02T02:10:32+00:00"
+  },
+  {
+    "attempt": 145,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1850906/000095017021005224/0000950170-21-005224-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:33+00:00",
+    "status": "completed",
+    "response_id": "resp_0c28969f52b08e78016ae7f119dc8087d29d7ae09f2d664c1a",
+    "usage": {
+      "input_tokens": 2793,
+      "input_tokens_details": {
+        "cache_write_tokens": 2790,
+        "cached_tokens": 0
+      },
+      "output_tokens": 321,
+      "output_tokens_details": {
+        "reasoning_tokens": 117
+      },
+      "total_tokens": 3114
+    },
+    "finished_utc": "2026-11-02T02:10:37+00:00"
+  },
+  {
+    "attempt": 146,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1710340/000149315221031988/0001493152-21-031988-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:38+00:00",
+    "status": "completed",
+    "response_id": "resp_0360f9732075807d016ae7f11e8c7087d299b95df4a481040d",
+    "usage": {
+      "input_tokens": 3310,
+      "input_tokens_details": {
+        "cache_write_tokens": 3307,
+        "cached_tokens": 0
+      },
+      "output_tokens": 374,
+      "output_tokens_details": {
+        "reasoning_tokens": 129
+      },
+      "total_tokens": 3684
+    },
+    "finished_utc": "2026-11-02T02:10:42+00:00"
+  },
+  {
+    "attempt": 147,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1339005/000114036122046508/0001140361-22-046508-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:42+00:00",
+    "status": "completed",
+    "response_id": "resp_024129fe06ce00aa016ae7f123164c87d2a5494b135990675b",
+    "usage": {
+      "input_tokens": 2454,
+      "input_tokens_details": {
+        "cache_write_tokens": 2451,
+        "cached_tokens": 0
+      },
+      "output_tokens": 300,
+      "output_tokens_details": {
+        "reasoning_tokens": 89
+      },
+      "total_tokens": 2754
+    },
+    "finished_utc": "2026-11-02T02:10:46+00:00"
+  },
+  {
+    "attempt": 148,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1012477/000110465923067829/0001104659-23-067829-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:47+00:00",
+    "status": "completed",
+    "response_id": "resp_0586e8d90c151ed7016ae7f1277c1c87d2ab24c9d31da424d2",
+    "usage": {
+      "input_tokens": 3727,
+      "input_tokens_details": {
+        "cache_write_tokens": 3724,
+        "cached_tokens": 0
+      },
+      "output_tokens": 257,
+      "output_tokens_details": {
+        "reasoning_tokens": 45
+      },
+      "total_tokens": 3984
+    },
+    "finished_utc": "2026-11-02T02:10:50+00:00"
+  },
+  {
+    "attempt": 149,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/914475/000091447524000229/0000914475-24-000229-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:51+00:00",
+    "status": "completed",
+    "response_id": "resp_04fb458ccdf245c4016ae7f12b972c87d2ad7867f8af915ee2",
+    "usage": {
+      "input_tokens": 4689,
+      "input_tokens_details": {
+        "cache_write_tokens": 4686,
+        "cached_tokens": 0
+      },
+      "output_tokens": 277,
+      "output_tokens_details": {
+        "reasoning_tokens": 73
+      },
+      "total_tokens": 4966
+    },
+    "finished_utc": "2026-11-02T02:10:54+00:00"
+  },
+  {
+    "attempt": 150,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1430306/000199937125017964/0001999371-25-017964-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:55+00:00",
+    "status": "completed",
+    "response_id": "resp_0d903fbf72e0261e016ae7f12faa9087d2911c51108e39a688",
+    "usage": {
+      "input_tokens": 5490,
+      "input_tokens_details": {
+        "cache_write_tokens": 5487,
+        "cached_tokens": 0
+      },
+      "output_tokens": 362,
+      "output_tokens_details": {
+        "reasoning_tokens": 131
+      },
+      "total_tokens": 5852
+    },
+    "finished_utc": "2026-11-02T02:10:58+00:00"
+  },
+  {
+    "attempt": 151,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1851484/000121390025116764/0001213900-25-116764-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:10:59+00:00",
+    "status": "completed",
+    "response_id": "resp_0d8d4e7aea35d648016ae7f133f00087d28a5d789c0f1c0eba",
+    "usage": {
+      "input_tokens": 9814,
+      "input_tokens_details": {
+        "cache_write_tokens": 9811,
+        "cached_tokens": 0
+      },
+      "output_tokens": 412,
+      "output_tokens_details": {
+        "reasoning_tokens": 164
+      },
+      "total_tokens": 10226
+    },
+    "finished_utc": "2026-11-02T02:11:03+00:00"
+  },
+  {
+    "attempt": 152,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465922029676/0001104659-22-029676-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:14:23+00:00",
+    "status": "completed",
+    "response_id": "resp_00413dee9792da1e016ae7f200484087d29f6da134abda0378",
+    "usage": {
+      "input_tokens": 2144,
+      "input_tokens_details": {
+        "cache_write_tokens": 2141,
+        "cached_tokens": 0
+      },
+      "output_tokens": 354,
+      "output_tokens_details": {
+        "reasoning_tokens": 108
+      },
+      "total_tokens": 2498
+    },
+    "finished_utc": "2026-11-02T02:14:28+00:00"
+  },
+  {
+    "attempt": 153,
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1561921/000110465924046970/0001104659-24-046970-index.htm",
+    "model": "gpt-6-luna",
+    "started_utc": "2026-11-02T02:14:29+00:00",
+    "status": "completed",
+    "response_id": "resp_0635e12d77a012fc016ae7f205652087d2b2470d53fc43320c",
+    "usage": {
+      "input_tokens": 2802,
+      "input_tokens_details": {
+        "cache_write_tokens": 2799,
+        "cached_tokens": 0
+      },
+      "output_tokens": 314,
+      "output_tokens_details": {
+        "reasoning_tokens": 66
+      },
+      "total_tokens": 3116
+    },
+    "finished_utc": "2026-11-02T02:14:32+00:00"
+  }
+]

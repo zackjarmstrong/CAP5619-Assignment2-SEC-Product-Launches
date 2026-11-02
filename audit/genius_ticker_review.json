@@ -1,0 +1,37 @@
+{
+  "reviewed_utc": "2026-11-02T14:21:18.882061+00:00",
+  "reviewer": "Codex historical SEC source verification (AI-assisted; not independent human verification)",
+  "product": "Genius",
+  "company": "Verses AI Inc.",
+  "cik": "0001879001",
+  "filing_time": "2025-05-02 17:25:06",
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/1879001/000164117225008432/0001641172-25-008432-index.htm",
+  "existing_stock_name": "VRSSD",
+  "decision": "Retain VRSSD; historical effective symbol unresolved. No dataset or review-history changes.",
+  "reason": "The June 30 annual information form records the March 28 announcement that shares began trading as VRSSD; the April 17 release also uses VRSSD. The April 30 Genius launch release instead uses VRSSF. These reliable SEC exhibits conflict and do not establish the effective trading symbol at the May 2 acceptance time. No current ticker or assumed temporary-symbol expiry was used to infer a correction.",
+  "sources": [
+    {
+      "document_date": "2025-06-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/1879001/000164117225017609/ex99-3.htm",
+      "retrieved_content_sha256": "b1955f6100d276421ec1771c6d7e019a2c4d313e13e8f1387a83036881da01a9",
+      "hashed_representation": "retrieved HTTP response bytes",
+      "verified_excerpt": "On March 28, 2025, the Company announced the Company’s Class A Subordinate shares began trading on the OTCQB market under the symbol “VRSSD”."
+    },
+    {
+      "document_date": "2025-04-17",
+      "url": "https://www.sec.gov/Archives/edgar/data/1879001/000164117225005805/ex99-1.htm",
+      "retrieved_content_sha256": "786b7f1ca917c79713ee03432a661d3d47f432641a0299438c78a2cb3cc1c7ce",
+      "hashed_representation": "retrieved HTML encoded as UTF-8",
+      "verified_excerpt": "April 17, 2025 — VERSES AI Inc. (CBOE:VERS) (OTCQB:VRSSD)"
+    },
+    {
+      "document_date": "2025-04-30",
+      "url": "https://www.sec.gov/Archives/edgar/data/1879001/000164117225008432/ex99-1.htm",
+      "retrieved_content_sha256": "5545bb33be63174b7168fa920a7d3efc3ccca8ee390f44ca29521333f3c72883",
+      "hashed_representation": "retrieved HTML encoded as UTF-8",
+      "verified_excerpt": "April 30, 2025 -- VERSES AI Inc. (CBOE:VERS) (OTCQB:VRSSF)"
+    }
+  ],
+  "accepted_product_records_changed": 0,
+  "paid_api_requests": 0
+}

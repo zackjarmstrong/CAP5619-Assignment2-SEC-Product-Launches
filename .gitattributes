@@ -1,0 +1,5 @@
+# Preserve the exact exported bytes, including validated CSV line endings.
+* -text
+*.pdf binary
+*.zip binary
+*.png binary

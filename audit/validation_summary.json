@@ -1,0 +1,28 @@
+{
+  "generated_utc": "2026-11-02T21:30:46+00:00",
+  "model": "gpt-6-luna",
+  "legacy_baseline_rows": 11,
+  "candidate_product_rows": 135,
+  "final_product_rows": 100,
+  "final_companies": 62,
+  "discovered_filings": 1417,
+  "llm_analyzed_ticker_labels": 135,
+  "llm_analyzed_companies_by_cik": 133,
+  "final_source_filings": 85,
+  "unique_llm_analyzed_filings_including_history": 187,
+  "unique_successfully_screened_filings": 1068,
+  "unique_filings_screened_or_llm_analyzed": 1100,
+  "new_api_attempts": 153,
+  "authorization_limit": 180,
+  "preserved_source_checked_baseline_rows": 73,
+  "additional_batch_api_attempts": 33,
+  "remaining_authorized_attempts": 27,
+  "review_status_counts": {
+    "source_checked": 100,
+    "rejected": 26,
+    "uncertain": 9
+  },
+  "issues": [],
+  "meets_100_entries": true,
+  "meets_100_llm_filings": true
+}

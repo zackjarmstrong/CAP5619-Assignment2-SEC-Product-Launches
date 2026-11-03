@@ -9,8 +9,8 @@
   "manifest_entries": 158,
   "total_entries": 159,
   "source_packets": 115,
-  "sha256": "3a5e8c2808e4dd5b15c084244818e3714c88535bd5d2230d089087779eec9a18",
-  "bytes": 1084970,
+  "sha256": "ebfc4c739cd7361b1c3923cff934612ca33fd23ff941159832ab29cb0573e93b",
+  "bytes": 1129086,
   "zip_crc_check": "passed",
   "manifest_hashes_match_archive_and_workspace": true
 }

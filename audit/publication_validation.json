@@ -18,5 +18,11 @@
   "credentials_found": false,
   "local_user_paths_found": false,
   "old_git_history_imported": false,
-  "course_materials_exported": false
+  "course_materials_exported": false,
+  "revision": "Approved revised methodology; dataset and API ledger unchanged",
+  "approved_pdf_bytes_preserved": true,
+  "approved_markdown_bytes_preserved": true,
+  "rebuilt_report_matches_approved_markdown": true,
+  "rebuilt_report_pages": 2,
+  "offline_validation_network_and_credentials_blocked": true
 }

@@ -31,6 +31,6 @@ test_truncation_tracks_omitted_documents_and_limit (test_safeguards.Safeguards.t
 test_unverifiable_quote_cannot_pass (test_safeguards.Safeguards.test_unverifiable_quote_cannot_pass) ... ok
 
 ----------------------------------------------------------------------
-Ran 31 tests in 0.579s
+Ran 31 tests in 0.701s
 
 OK

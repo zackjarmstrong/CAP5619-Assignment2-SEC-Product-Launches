@@ -5,7 +5,6 @@
     ".gitignore",
     "METHODOLOGY.md",
     "README.md",
-    "SUBMISSION_GUIDE.md",
     "analyze_launch_candidates.py",
     "assignment2.py",
     "audit/api_requests.json",

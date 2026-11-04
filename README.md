@@ -1,66 +1,79 @@
-# CAP5619 Assignment 2: SEC product-launch analysis
+# Finding product launches in SEC filings
 
-Python analysis of original product launches in SEC Form 8-K filings using LLM inference and source review.
+For CAP5619 Assignment 2, I built a Python workflow that uses a large language model to find new product announcements in SEC Form 8-K filings and turn them into a structured dataset. The final CSV contains **100 products from 62 companies**. The saved analysis logs cover **187 filings analyzed with an LLM**.
 
-Repository: [CAP5619-Assignment2-SEC-Product-Launches](https://github.com/zackjarmstrong/CAP5619-Assignment2-SEC-Product-Launches)
+## How it works
 
-## Completed results
+I searched SEC filings for launch and availability phrases, then used Python `requests` and BeautifulSoup to retrieve and clean the filings and their attached press releases, often EX-99 exhibits. A screening step ranked likely launch announcements so the LLM could focus on relevant documents.
 
-The final dataset contains **100 source-checked products from 62 companies**, supported by 85 product-source filings. Preserved logs record **187 successfully LLM-analyzed filings**. Of 135 candidate products, 26 were rejected and nine remain uncertain; both groups are excluded. The request ledger contains **153 completed requests**, with a historical ceiling of 180. Collection stopped at the 100-product target. This publication used no additional OpenAI requests.
+The extraction step used OpenAI's Responses API with `gpt-6-luna`. The LLM identified company names as ORGANIZATION entities and newly announced products as PRODUCT entities, then returned structured JSON with the required fields and supporting quotes. This was inference; I did not train a separate entity-recognition model or fine-tune the LLM.
 
-`source_checked` means an AI assistant inspected the SEC source and recorded a decision; it is not independent human verification. Issuer efficacy and performance statements are not independently validated. The sample is purposive and does not establish exhaustive originality, precision, or recall.
+Python checked field types, description lengths, supporting quotes, and duplicate product names. Filing timestamps came from SEC metadata. AI-assisted source review checked whether each announcement described a current launch rather than an older product, future plan, or unrelated corporate event. The `source_checked` label records that AI-assisted review; it does not mean every entry was independently verified by a person.
 
-## Deliverables
+The final file, `products_final.csv`, has five columns:
 
-- `products_final.csv`: the sole final dataset, with exactly `company_name,stock_name,filing_time,new_product,product_description`; descriptions contain fewer than 180 characters.
-- `output/pdf/methodology_report.pdf`: two-page methodology and actual results; `METHODOLOGY.md` is its editable text.
-- `submission.zip`: supported source, dependencies, dataset, report, tests, and evidence, with `MANIFEST_SHA256.json` inside.
-- `submission.zip.sha256` and `submission_verification.json`: package checksum and verification results.
-- `product_evidence.csv`, `review_decisions.csv`, and `audit/sources/`: product provenance, review status, and 115 public SEC source packets.
-- `human_review_queue.csv`: excluded uncertain cases; `products_batch_test.csv` is a candidate checkpoint, not another final dataset.
-- `publication_manifest.json`: the explicit public-file allowlist and frozen dataset/ledger checksums.
-- `SUBMISSION_GUIDE.md`: artifact map and remaining personal submission steps.
-
-## Offline reproduction
-
-Use Python 3.13 from this repository folder. No credentials, SEC requests, or OpenAI calls are needed for these commands:
-
-```powershell
-python -m pip install -r requirements.txt -r requirements-report.txt
-python -B -m unittest discover -s tests -v
-python -B run_pipeline.py --mode validate
-python -B build_report.py
-python -B build_submission.py
+```text
+company_name,stock_name,filing_time,new_product,product_description
 ```
 
-Dependency installation needs internet if packages are not installed; validation, tests, and artifact generation run offline. Validation may refresh materialized checkpoints and the validation timestamp, but must preserve the final CSV and request ledger checksums. The package builder checks both frozen hashes before writing a new ZIP. It records SHA-256 hashes for every included file. The report builder reads `METHODOLOGY.md` without rewriting it and preserves the revised two-page content and section split. The committed PDF is the approved supplied rendering; regeneration can change typography and PDF bytes. Regeneration changes report/package hashes and requires a fresh visual review of the PDF and verification of the ZIP. Git attributes preserve file bytes across checkouts.
+Descriptions are shorter than 180 characters; the longest is 169. Nine uncertain candidates and 26 rejected candidates were left out. The API request ledger contains 153 requests, and collection stopped when the 100-product target was reached.
 
-The 31 included tests cover validation, grounding, deduplication, recovery behavior using synthetic fixtures, request limits, locks, and stopping at the reviewed goal. Legacy experimental scripts and their separate entry-point test are not exported. This repository begins with a new initial commit; no prior Git objects, private course materials, recovery bundles, or personal commit metadata were imported.
+## Main files
 
-## Method and course alignment
+| File | Purpose |
+| --- | --- |
+| `run_pipeline.py` | Main command-line workflow |
+| `assignment2.py` | SEC retrieval, extraction schema, field checks, and duplicate detection |
+| `screen_launch_candidates.py`, `sec_launch_discovery.py`, `analyze_launch_candidates.py` | Screening, discovery, and extraction helpers |
+| `pipeline_store.py` | Saved results, request accounting, and recovery safeguards |
+| `products_final.csv` | Final 100-product dataset |
+| `output/pdf/methodology_report.pdf` | Approved two-page methodology report |
+| `METHODOLOGY.md`, `build_report.py` | Editable report text and offline PDF builder |
+| `product_evidence.csv`, `review_decisions.csv`, `audit/sources/` | Source references, review decisions, and 115 SEC source packets |
+| `human_review_queue.csv` | Uncertain candidates excluded from the final dataset |
+| `audit/validation_summary.json`, `audit/api_requests.json` | Validation results and API request ledger |
+| `tests/` | Offline tests for validation, source checks, recovery, and spending safeguards |
+| `build_submission.py`, `publication_manifest.json` | ZIP builder and list of files to include |
+| `submission.zip`, `submission.zip.sha256`, `submission_verification.json` | Final package, checksum, and package verification results |
 
-The written Assignment 2 handout and course examples were reviewed privately and are not redistributed. The course approach is Python SEC text collection, contextual prompting, Named Entity Recognition (NER), and structured extraction. The LLM identifies company names as ORGANIZATION entities and newly announced products as PRODUCT entities, then returns `company_name` and `new_product` within structured fields. These are semantic roles, not separately emitted BIO tags. No separate NER model was trained. Issuer names are normalized to SEC metadata. API inference is permitted by the handout; local Ollama examples illustrate another execution method.
+Other CSVs are intermediate results or review checkpoints. Use `products_final.csv` for the completed assignment.
 
-The configured historical extraction model is `gpt-6-luna`, using strict JSON Schema and a 179-character description limit. Prompts request literal evidence, a source URL, date, confidence, and rationale, and exclude historical recaps, future plans, financing, rebrands, and channel expansions. Python supplies SEC acceptance timestamps, checks quotes against source text, and deduplicates normalized product names. Source review remains necessary even when model confidence is high.
+## Install and run
 
-Budget accounting, atomic recovery journals, writer locks, source hashes, preservation baselines, and package manifests are additional implementation decisions, not professor-required techniques. This is inference rather than model training. The written handout does not require Weights & Biases; none is integrated.
+Use Python 3.13. These commands are for PowerShell:
 
-## Supported code and retained safeguards
+```powershell
+git clone https://github.com/zackjarmstrong/CAP5619-Assignment2-SEC-Product-Launches.git
+cd CAP5619-Assignment2-SEC-Product-Launches
+py -3.13 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt -r requirements-report.txt
+```
 
-- `run_pipeline.py`: primary CLI; default mode `plan` is read-only.
-- `assignment2.py`: SEC retrieval, extraction schema, validation, and duplicates.
-- `pipeline_store.py`: durable storage, request ledger, cumulative ceiling, and writer lock.
-- `analyze_launch_candidates.py`, `screen_launch_candidates.py`, `sec_launch_discovery.py`: document discovery, screening, and discovery helpers; their CLIs delegate to the supported workflow.
-- `build_report.py` and `build_submission.py`: offline artifact generators.
+From the repository folder, inspect the current plan, run the tests, validate the saved results, and rebuild the submission package:
 
-The 153-record request ledger and historical authorizations are retained so copying this export cannot reset request accounting. The cumulative ceiling remains 180; reservations and failures consume slots, SDK retries are disabled, and paid analysis checks the reviewed 100-product goal before credential access. These historical authorizations do not instruct readers to run new collection. Existing data and evidence are sufficient for submission. Credentials are not included; the original workflow uses `keyring` and Windows Credential Manager. No API key is needed for offline reproduction.
+```powershell
+.\.venv\Scripts\python.exe -B run_pipeline.py --mode plan
+.\.venv\Scripts\python.exe -B -m unittest discover -s tests -v
+.\.venv\Scripts\python.exe -B run_pipeline.py --mode validate
+.\.venv\Scripts\python.exe -B build_submission.py
+```
 
-Complete raw model responses, recovery journals, older snapshots, and development history are preserved in a separate private archive. They are not in this public repository or ZIP. Public evidence and checkpoints support offline validation; replay of original raw-response recovery requires that private archive. Source packets reproduce public SEC issuer statements, including public business information, and are not private account data.
+Installation needs internet access unless the dependencies are already available. The four commands above run offline and need no API key. Plan mode is read-only. Validation can refresh saved checkpoints and the validation timestamp, but the final CSV and request ledger must retain their checksums. The package builder checks those frozen checksums and creates `MANIFEST_SHA256.json` inside the ZIP, plus a checksum for the ZIP itself.
 
-## Limitations and personal review
+The approved PDF is already included. If you edit the report text, rebuild it with:
 
-Genius retains `VRSSD` with explicit historical uncertainty. SEC exhibits support VRSSD's March 2025 adoption and April 17 use, while the April 30 launch release lists VRSSF; they do not conclusively resolve the effective symbol at the May 2 acceptance time. See `audit/genius_ticker_review.json`. No accepted product value was changed for publication.
+```powershell
+.\.venv\Scripts\python.exe -B build_report.py
+```
 
-The nine uncertain candidates remain excluded. Review the dataset, source decisions, report, and disclosed AI assistance before submission. Add the full repository URL to the top of the student's CV and upload the requested deliverables through the course system.
+The builder reads `METHODOLOGY.md` without rewriting it. A rebuild preserves the report text and two-page section split, but may change typography and PDF bytes. Review the PDF and rebuild the ZIP after any report changes.
 
-References: [SEC EDGAR developer resources](https://www.sec.gov/about/developer-resources), [OpenAI Python SDK](https://developers.openai.com/api/reference/python), [Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs?api-mode=responses). Filing-specific source URLs are retained in the evidence CSV and source packets.
+No new collection is needed to use or validate these results. Discovery and screening modes access the SEC, and analysis modes can make paid OpenAI requests. The code retains a cumulative request ceiling of 180, counts failed attempts, disables automatic SDK retries, and stops paid analysis once 100 reviewed products are available. These safeguards remain in place; the offline commands do not use the remaining allowance.
+
+## Limitations and AI assistance
+
+This is a selected sample, not a complete inventory of public-company product launches. Searches and screening may miss announcements, and an issuer's press release does not independently establish a product's performance. I did not measure precision or recall against a labeled benchmark.
+
+The Genius/VERSES AI entry retains `VRSSD` because the historical SEC exhibits contain conflicting ticker information. The uncertainty is documented in `audit/genius_ticker_review.json`.
+
+I used ChatGPT/Codex to help develop and test the Python code, review entries against SEC sources, and draft and revise the documentation. Source review was AI-assisted, as described above.
